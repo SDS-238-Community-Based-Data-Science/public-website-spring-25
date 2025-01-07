@@ -1,0 +1,79 @@
+---
+title: "Day Twenty-Three: Ignorance"
+subtitle: "SDS 237: Data Ethnography"
+author: "Lindsay Poirier"
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Write a definition for the word 'ignorance' that might appear in a dictionary. (No looking it up!)
+
+---
+
+## Enter up to three words or (short) phrases that indicate what 'ignorance' is. 
+
+[PollEv.com/lindsaysmith](PollEv.com/lindsaysmith)
+
+
+---
+
+## Ignorance Concept Map
+
+1. Select at least eight words from the cloud to write on sticky notes. 
+2. Organize these terms in a meaningful way on your orange paper. Feel free to draw lines between interconnected terms. 
+3. Identify three categories of ignorance represented on your map. Be sure to write them somewhere on the map. 
+4. Take a photo the finished map, and post it in the #random channel on Slack. 
+
+---
+
+# Agnotology: the study of ignorance or doubt as invoked by various cultural forces
+
+---
+
+# Ignorance as Stimulous (a.k.a. curiosity)
+
+---
+
+# Selective Ignorance (a.k.a. "undone science")
+
+---
+
+# Engineered Ignorance (a.k.a. "disinformation")
+
+---
+
+# Virtuous Ignorance (a.k.a. barring unethical research)
+
+---
+
+## Scales of Data Knowledge Production
+
+- Epistemology
+- Infrastructure
+- Individual Labor
+- Collective Rituals
+- Institutions and Incentives
+- Advocacy, Activism, and Discourse
+
+---
+
+- Ignorance as Stimuluous (a.k.a. curiosity)
+- Selective Ignorance (a.k.a. "undone science")
+- Engineered Ignorance (a.k.a. "disinformation")
+- Virtuous Ignorance (a.k.a. barring unethical research)

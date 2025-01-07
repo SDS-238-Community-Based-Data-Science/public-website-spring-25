@@ -1,0 +1,140 @@
+---
+title: "Day Six: Reflexivity"
+subtitle: "SDS 237: Data Ethnography"
+author: "Lindsay Poirier"
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+## Imagine that you are an ethnographer attending Astro Hack Week. Pull out a sheet of paper and jot your name in the center. Around your name, list aspects of your cultural identity that would be important to acknowledge as you studied this space.
+
+---
+
+## Turn to your neighbor and discuss:
+
+- Why would it be important to consider these aspects of your cultural identity as you engaged in ethnographic fieldwork?
+
+---
+
+# What were some takeaways from Tuesday's class?
+
+---
+
+## Common Rule
+
+- In the US, research organizations receiving federal funding are subject to the Common Rule
+  - Laws and regulations regarding how Institutional Review Boards are to operate
+  - IRBs are organizational bodies that review the ethics of human subjects research in order to protect human welfare, rights, and privacy before a study gets carried out
+- Usually composed of representatives from an institution with a diverse background
+
+---
+
+## Tuskegee Study
+
+- Conducted from 1932 to 1972 by US Public Health Services and Center for Disease Control, in collaboration with Tuskegee University in Alabama
+- Involved 400 African Americans with syphilis 
+- Study of leaving the disease untreated even though it was treatable
+  - Were told they would receive free medical care
+  - Never informed of their diagnosis
+  - Provided with placebos and ineffective methods
+
+---
+
+## Facebook’s Emotional Contagion Study
+
+- January 2012, Facebook data scientists manipulated what 700,000 users saw on feeds to examine emotional contagion
+  - Some shown happy, positive content
+  - Others shown sad, negative content
+- Legal?
+- Ethical?
+
+---
+
+## Ethics of ethnographic research
+
+- Ethnography different than many other forms of human subjects research in that it takes place in natural settings vs in clinical settings
+- Question of how to balance benefits of the research with the potential harms posed to the participants
+- Potential harms:
+  - Reputation
+  - Disclosure of personal information
+  - Disruption of relationships
+  - Loss of claims
+
+
+---
+
+## Critiques and Criticisms of Ethnographic Research
+
+- Ethnographic research (like many other forms of research) has been historically complicit in imperialism and colonialism
+- Methods emerged as part of European colonial efforts to document folks "Native" to "other" lands - often to enable control and exploitation of those cultures
+- Many binary oppositions indicate how power operated here:
+  - Studier/studied
+  - Researcher/researched
+- Concerns over who gets to "write culture"
+
+---
+
+## Reflexive Turn
+
+- Emerged in the 1970s as a result of feminist and post-colonial critiques
+  - Feminist: Where do we stand? Can we ever observe from an objective or neutral place?
+  - Post-colonial: What do we consider "Other," and how do we portray what is "Other"?
+- Called on ethnographers to engage in self-reflection (standpoints, assumptions, etc.)
+- Can we write another culture "objectively" when our own biases and epistemologies, and social capital are inevitably involved in the research?
+
+---
+
+## ...aka the Literary Turn
+
+
+- Ethnography was often understood to be about writing (documenting observations and interpreting them)
+- Began to pay attention to power in the language used to "write culture"
+  - Binary oppositions
+  - Genre and representations of "fact"
+- Called for making ethnographic writing more polyphonous (or represent a plurality of voices)
+- Sometimes invited "poetics" and "experimentalism"
+
+> In other words, there are political reasons as to why the fieldnotes that you read felt different than other scientific genres!
+
+---
+
+## Reflexivity for Each of our Methods
+
+- Participant Observation
+  - Observing interaction and behaviors "in the field"
+- Interviewing
+  - Engaging in semi-structured conversations with informants
+- Archival Research
+  - Curating and interpreting historical documents and artifacts
+- Discourse analysis
+  - Interpreting the cultural meaning interwoven in texts and speech
+  
+---
+
+# Reading Discussion
+  
+--- 
+
+## Project Groups
+  
+> In your groups, be sure to introduce yourselves to each other (pronouns, majors, etc.)
+
+
+

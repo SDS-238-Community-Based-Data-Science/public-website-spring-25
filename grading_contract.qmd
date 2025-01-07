@@ -1,0 +1,112 @@
+---
+title: "Grading Contract"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r imports, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(bsplus)
+library(htmltools)
+```
+
+::: callout-note
+Grading contracts have been theorized and implemented in the research of Dr. Peter Elbow and Dr. Asao Inoue. This grading contract is adapted from their work, along with the contracts of Dr. Kate Navickas and Dr. Kati Ahern.
+:::
+
+This course will be using a grading contract. This means that the grade you ultimately receive for this course is primarily based on the labor that you perform rather than a subjective evaluation of the quality of your work and writing in relation to your colleagues. Your grade will be determined by the extent of your engagement in class, your timely completion of assignments, and how you support the course community. You will still attend to and work to improve the quality of your writing and thinking in this course. You will receive extensive feedback on all of your submissions (from me and from your colleagues), and you will have opportunities to revise. However, you will not receive points or an A, B, C, D, etc. on assignments.
+
+I've experimented with a few alternative grading systems, and I'm particularly excited to continue engaging this system this semester as I believe it aligns with my overarching goals for the course. In this course I am less concerned with your ability to come to a specific answer, to master certain procedures, or to produce standardized deliverables. I'm more concerned with the extent to which this course enables you become more perceptive to data environments, to deepen your critical thinking about data's cultural meanings, to experiment with your thinking and writing, and to grapple with ethical dilemmas. There's always room for strengthening these thinking modes further; in fact, every time I teach this course, I find that my own ability to think critically about data deepens through classroom discussions and my reading of student work.
+
+There are many benefits to contract grading. Here are there reasons why I’ve opted for a grading contract in this course:
+
+-   I want you to feel as though you can experiment with your writing in this course. Rather than focusing on what you think I want out of your assignments or "writing to the rubric," grading contracts empower you to take more risks.
+-   Grading contracts value the time and effort you put into the course and reward students who invest extra time in their learning.
+-   Grading contracts make it easier for you to anticipate the grade you will receive and plan for achieving that grade.
+-   Grading contracts promote equity. With grades based entirely on labor, students aren’t penalized for not entering the course with the same experience or background knowledge as their colleagues.
+
+## Grade Breakdown
+
+Each row indicates what labor you need to complete in the course to earn the grade indicated in the first column of that row. Note that to earn a particular grade *all* minimum labor criteria in the corresponding row must be met.
+
+| Grade | Journal Entries (out of 5) |       Mini-projects        |          Final Project Checkpoints           | Reading Annotations | Community Labor Points | Course Absences/Late Arrivals | Advanced Assignments |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|   A   |         4 or more          | 2 + 1 substantive revision | 1 group contract + 1 draft + 1 final project |     13 or more      |       8 or more        |             \<=3              |          3           |
+|   B   |         4 or more          | 2 + 1 substantive revision | 1 group contract + 1 draft + 1 final project |     13 or more      |       8 or more        |             \<=6              |          0           |
+|   C   |         3 or more          | 1 + 1 substantive revision | 1 group contract + 1 draft + 1 final project |     10 or more      |       6 or more        |             \<=9              |          0           |
+|   D   |         2 or more          |       1, no revision       | 1 group contract + 1 draft + 1 final project |      7 or more      |       4 or more        |             \<=12             |          0           |
+|   E   |             1              |             0              |                      0                       |     7 or fewer      |       3 or fewer       |             \<=15             |          0           |
+
+::: callout-tip
+At the start of the course, I will assign a syllabus quiz. If you receive an 80% or better on that quiz, it can replace one of your reading annotation assignments. If you receive a 100% on that quiz, it can replace two of your reading annotation assignments.
+:::
+
+### Deadlines
+
+Assignments are due **before class** (9:25AM EST) on the designated due date. If you take the 24-hour grace period for written assignments (note that this is not an option for reading assignments), the assignment is due before (9:25AM EST) on the day following the designated due date. Any granted extensions are similarly due before 9:25AM EST on the date the deadline is extended to.
+
+### Earning an A
+
+You'll notice that, in most categories, there's no difference in *the quantity* of labor you need to complete to earn an A vs. a B. Earning a B in this course demonstrates that you have completed enough work to meet the course's learning goals. An A grade in this course indicates that you have exceeded expectations of the course's learning goals. Please note that this does not mean that you need to do **more labor** (i.e. more assignments) to earn A. Instead, you need to consistently demonstrate levels of critical thinking on existing course assignments that surpass the minimum requirements.
+
+To earn an A in this course, you will need to complete 3 course assignments at an *advanced level*. Every assignment that you complete at an advanced level will bump your B score up by one grade modifier. You will select the assignments that you want to complete at this level *from the labor log*, giving you an opportunity to choose where you want to engage deeper. The following chart helps breakdown some of the differences between meeting expectations and exceeding expectations:
+
+| Meeting Expectations                                                                               | Exceeding Expectations                                                                                                                                      |
+|----------------------------|--------------------------------------------|
+| Defining and applying course concepts                                                              | Drawing connections between course concepts, critiquing them, or extending them (i.e. offering new ways to think about them)                                |
+| Citing arguments from a course reading to support interpretation and ethnographic arguments        | Engaging more deeply with a course reading - unpacking how its arguments are supported and evaluating its relevance when applied to other ethnographic data |
+| Implementing an ethnographic research method                                                       | Defending the selection of a research method and evaluating its strengths/limitations                                                                       |
+| Writing up research findings to convey an argument                                                 | Experimenting with the prose and form of argumentative writing with a clear analytic purpose                                                                |
+| Reporting ethnographic findings in writing                                                         | Critically situating the standpoints of your research findings throughout the writing                                                                       |
+| Analyzing how a social force shapes the constitution of data                                       | Analyzing how multiple, at times competing, social forces shape the constitution of data                                                                    |
+| Clearly communicating the contexts that produced data in a format appropriate for a given audience | Creatively playing with the style and medium of communication in order to better reach and engage an audience                                               |
+
+::: callout-tip
+Note that you may complete a reading annotation assignment at an advanced level by signing up to lead a 15-minute classroom discussion of that reading. I will remind you of this option throughout the first few weeks of the course. This is the only option for completing reading annotation assignments at an advanced level.
+:::
+
+The labor log designates which assignments you may attempt to complete at an advanced level. You will be asked to justify why you consider your work on the assignment as *advanced* in the labor log. Please note that, when justifying why I should consider the work advanced in the labor log, you should clearly explain how the **cognitive effort** on the assignment surpasses minimum expectations. While you may end up writing more or spending more time on these assignments, *exceeding the minimum word count* or *spending x hours on the assignment* **would not** be considered adequate justification for advanced level work. Being able to justify **why** your work is advanced demonstrates to me that you have gained a deep understanding of the course's learning objectives and that you have the ability to communicate what you've learned. While it is ultimately up to you to determine what constitutes advanced level work, I am happy to brainstorm ideas with you in office hours.
+
+Please note that I reserve the right to deny advanced level designations after reviewing your work, and I also reserve the right to deem an assignment as having been completed at an advanced level, even when you haven't designated it as such. If ultimately I deny a designation, you may attempt to earn the advanced level designation again. Note that this is a good reason not to wait until the end of the semester to attempt advanced level work.
+
+Attendance/late arrivals also separate A grades from B grades. Keep in mind that the final grade will be reduced by one grade modifier for each unexcused absence/late arrival beyond the number allowed for your contracted grade. This means that if you completed the work for an A, and you have 4 absences, the final grade will be an A-, and with 5 absences, it would be a B+. I chose to use grade modifiers here so that if you miss just one class beyond the first 3 allotted (i.e. 4 absences), it doesn't drop your grade so drastically from an A to a B.
+
+## Assignments
+
+Descriptions of all written and project assignments are available [here](assignments.html). For an assignment to be considered complete, it must meet the minimum criteria outlined in the assignment description. It also must be completed "in good faith" - meaning in a way that demonstrates integrity to the spirit of the assignment.
+
+## FAQ
+
+### What kind of feedback will I receive regarding my work?
+
+You will receive extensive and timely feedback on all of your submissions (from me and from your colleagues), and you will have opportunities to revise. I will also provide rubrics for most assignments to indicate how I will evaluate your work. However, you will not receive points or an A, B, C, D, etc. on individual assignments.
+
+### There appear to be a significant number of assignments and deadlines in this course. Why is this the case?
+
+I've been very deliberate in pacing your assignments for this course for a number of reasons. Developing the critical thinking skills required of ethnography demands building and consistently practicing observational habits. I want you to leave this class being more mindful of the cultural forces shaping the numbers you see everyday. You are being asked to complete several short reflective writing assignments for this course so that you can start to build those habits. I am aware that this will mean that, sometimes, the writing you produce for this course will not be the very best quality you can produce. Especially for the field note assignments, I have prioritized consistency over depth of reflection because the primary goal there is to encourage you to become more habitually observant. This is also why you have the opportunity to select assignments you want to invest more time on when aiming for an A. If you are struggling with this course's workload, I recommend coming to talk with me in office hours.
+
+### How can I best keep track of my labor in this course?
+
+Throughout the semester, you will be asked to keep track of your labor via a log that you will share with me. I will reference this log to calculate certain aspects of your final grade. Instructions for using the labor log will be provided in the second week of the course.
+
+### Can I earn +/- grades in this course?
+
+Every advanced level assignment that you receive will bump your contracted grade up by one modifier. In addition, +/- may be assigned to final grades at my discretion in cases where a student's work consistently exceeds the expectations (+) of their contracted grade or is in some way insufficient (-). Students can track their progress towards a grade modifier in feedback that I provide throughout the semester. Your grade may also be reduced by a grade modifier for each missed class beyond the number associated with your contracted grade.
+
+### What if I need an extension on an assignment?
+
+There is a 24-hour grace period on all written assignments, except for reading annotations. There will be no penalties for submitting the written assignment within this 24-hour period, and you do not need to inform me that you intend to take the extra time. You can also request up to a 72-hour extension on any written assignment, as long *as you make that request at least 48 hours before the original assignment due date*. You can request an extension by filling out the [Extension Request form](https://moodle.smith.edu/mod/questionnaire/view.php?id=1258276) on Moodle, and I will confirm your extension on Slack. Beyond this, late assignments will not be accepted.
+
+### Can I ask for extensions or use the grace period for reading annotations?
+
+Reading assignments/Perusall annotations prepare you to participate in class discussions. For this reason, they need to be completed by the due date for credit. I've provided considerable leeway to miss a reading annotation assignment from time-to-time in order to accommodate flexibility in this regard.
+
+### What if I don't know how to complete an assignment at an advanced level?
+
+If you are not sure how to complete assignments at an advanced level, you should plan to come talk with me in office hours. I'm more than happy to help you brainstorm ideas!
+
+### An assignment deadline is approaching, and I'm unhappy with the quality of my work. What should I do?
+
+While I always encourage students to strive to submit the best work they can, this course's grading contract, coupled with the course's revision assignments, permits you to submit work that you know you want to continue to improve upon without penalty. Not submitting assignments at all has the potentially to significantly lower your grade in this course, whereas submitting an assignment that could benefit from more revision will not be detrimental to your grade as long as the minimum submission requirements are met.

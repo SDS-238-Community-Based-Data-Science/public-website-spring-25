@@ -1,0 +1,141 @@
+---
+title: "Day One: Introductions"
+subtitle: "SDS 237: Data Ethnography"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+## Exercise
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Slb8pLiPCDg?si=eVz1_UFpTpWNSebO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+:::
+
+::: {.column width="50%"}
+
+- Ethnographers often collect more data than they know what to do with
+- Write as much as possible about:
+  - what people do/why they do it
+  - beliefs/values/expertise
+  - social structures
+  - questions you are left with
+  
+:::
+:::
+
+---
+
+## What is ethnography?
+
+- study of human culture and social relations
+- involves interactions and observations, recording, and analysis
+- data collection methods are predominantly qualitative 
+- analysis is predominantly *inductive* and *interpretive*
+
+---
+
+# What is data?
+
+---
+
+## What fields of research inform data ethnography?
+
+- Science and Technology Studies (STS)
+  - an interdisciplinary field that examines how science, technology, politics, and culture all co-produce each other
+  - STS disciplines include anthropology, sociology, literary studies, political science, economics, and more
+  - What might be some examples?
+- Critical Data Studies
+  - an interdisciplinary field examining the epistemological, political, social, and ethical aspects of data artifacts, practices, and infrastructures
+  - What are some political dimensions of data? Examples?
+  - What are some ethical dimensions of data? Examples?
+  - Is there a difference?
+  
+---
+
+## Who is the professor? Why is an anthropologist teaching data science?
+
+- Please call me Lindsay (preferred), Professor Poirier, or Dr. Poirier
+- Previously Assistant Professor of Science and Technology Studies at UC Davis
+- Lab Manager at [BetaNYC](https://beta.nyc/)
+- M.S./Ph.D. in Science and Technology Studies from Rensselaer Polytechnic Institute
+- B.S. in Information Technology and Web Science from Rensselaer Polytechnic Institute
+- Dancing, crafting, cooking, re-watching the same TV series over and over again.
+- I have a *very* spunky dog Madison.
+- I am first generation. 
+
+---
+
+## My Pedagogy
+
+1. Inviting students to question taken-for-granted ideas and discourses
+2. Prioritizing growth in critical thinking and awareness over mastery of concepts
+3. Balancing *consistent practice* with *in-depth engagement*
+4. Confronting complex concepts through diverse learning modes
+5. Prioritizing an ability to question/grapple over an ability to resolve/comply
+
+---
+
+## Very quick syllabus review
+
+- Attendance and Late Arrivals
+- Slack
+- Academic Honesty
+- Grading Contract
+  - Deadlines
+- Community Labor
+  - Class Notes
+- Well-being
+- Seating
+
+---
+
+## Course Set-up: Google Drive
+
+1. Create a folder in Google Drive called: [YOUR-NAME-SDS-237]
+2. Share the folder with me (Right click on the folder and Share with lpoirier@smith.edu)
+3. Create a copy of [this spreadsheet](https://docs.google.com/spreadsheets/u/1/d/187FGeX9ByXa4-1hnqFFY5H-j4Aq8bAwbLjnVyJnGGyc/copy)
+4. Move the spreadsheet into the folder you shared with me
+5. Edit the name in the title to your name
+
+---
+
+
+## Course Set-up: Slack
+
+1. Install Slack Desktop on your computer ([Mac](https://slack.com/intl/en-gb/downloads/mac)/[Windows](https://slack.com/downloads/windows))
+2. Log-in using your Smith credentials to access the Smith College workspace
+3. Find the #general SDS-237-01-202501, right click on it, Move Channel > Move to New Section. Name the section SDS 237.
+4. Repeat these steps for the following three channels
+  -   #random SDS-237-01-202501
+  -   #sds-237-questions  SDS-237-01-202501
+  -   #sds-237-discussions SDS-237-01-202501
+
+If you want to get email notifications for Slack, click your profile picture > Preferences, scroll the bottom, and check "Send me email notifications for mentions and direct messages"
+
+---
+
+## Homework
+
+-   First reading in Perusall
+-   Syllabus Quiz
+-   Class notes sign-up; First day of class questionnaire; Trigger warnings form
+
+
+

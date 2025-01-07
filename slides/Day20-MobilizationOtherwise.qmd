@@ -1,0 +1,169 @@
+---
+title: "Day Twenty: Mobilizing Meaning Otherwise"
+subtitle: "SDS 237: Data Ethnography"
+author: "Lindsay Poirier"
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+## Final Project Reminders
+
+- First Draft due on Tuesday
+- User guide demonstrates having completed substantial research across all *five project exercises*
+- Language, visuals, and formats are tailored towards a *particular audience*
+- No minimum word count, but example user guide is about 4000 words long
+
+---
+
+## Final Project Scoring
+
+- Meets Criteria: Clearly communicating the contexts that produced data in a format appropriate for a given audience
+- Exceeds Criteria: Creatively playing with the style and medium of communication in order to better reach and engage an audience
+
+---
+
+
+# Reading Discussion
+
+
+---
+
+## Free-writing: Consider a **numeric** metric you use to measure something about yourself. Pick something that has special meaning for you. Is there a number that you strive for? How do you know when your score is "good"?
+
+---
+
+## Principles for Active Listening
+
+1. Suspend judgment
+2. Be curious
+3. Halt internal commentary
+4. Listen with intention
+5. Express gratitude for sharing
+
+---
+
+## Structured Story-tellling
+
+1. Find a partner, and decide who will speak first and who will speak second.
+2. Two minutes:
+  - First speaker: Provides uninterrupted narration about this measure. What does it mean to you? How did it come to have its meaning? How do you decide what success looks like?
+  - Second speaker: Listens with intention: What does this number mean to this person?
+3. One minute:
+  - Second speaker: Reflect back on what you heard/ask questions, etc. (e.g. "From what I understand...")
+  - First speaker: Affirm, correct, clarify, but also listen for what they heard
+4. Swap and repeat. 
+
+::: .notes
+
+- Through what mechanisms did people decide what was good?
+- Did you identify social structures at play in making this number meaningful?
+- Did you hear your partner talk about ways this number might mean different things to different people?
+
+:::
+
+---
+
+## Mobilizing Data Narratives
+
+- Mobilization refers to the processes by which people prepare something to be put to use or into action
+- Stakeholders strategically engage in meaning-making activities around data
+- Shapes societal interpretations of data
+
+## Mobilizing Data Narratives
+
+- Mobilization refers to the processes by which people prepare something to be put to use or into action
+- Stakeholders strategically engage in meaning-making activities around data
+- Shapes societal interpretations of data
+
+---
+
+## Narrating Data
+
+- Curating plot details and trajectories 
+  - Choosing variables to report on
+  - Choosing how to sequence statistics
+- Engaging literary or rhetorical devices
+  - Techniques of communication designed to evoke a reaction from the listener
+- Identifying the sense-making tools
+  - Visuals
+  - Statistical terminology (e.g. "statistically significant")
+  
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaxlJXpwkzs?si=OeuEWfDtE7LiPCBb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4x8y58ThUrI?si=haNxx8O2vp1aL3q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcDrE5YvqTs?si=ev3nW9wdHu1kK41k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## What story-telling elements bring the data in this ad to life?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZUrrpq9p2U?si=uOXnnrFV5nXCfMva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+::: {.notes}
+
+- Ad banned in 2023
+- Emphasized the renewables at the expense of high-carbon initiatives (which make up bulk of Shell production)
+- “We strongly disagree with the ASA’s decision, which could slow the UK’s drive towards renewable energy,” said a spokesperson for Shell. “People are already well aware that Shell produces the oil and gas they depend on today. When customers fill up at our petrol stations across the UK, it’s under the instantly recognisable Shell logo.”
+- “However, they [are] unlikely to be aware of the details of this in relation to specific companies,” the ASA said. “Ads [are] therefore likely to mislead consumers if they [have] misrepresented the contribution that lower-carbon initiatives played, or would play in the near future, as part of the overall balance of a company’s activities.”
+
+:::
+
+
+---
+
+> "The actual number of Americans jailed or imprisoned, about 2.3 million." - Matt Korostoff
+
+> [https://mkorostoff.github.io/incarceration-in-real-numbers/](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+
+
+---
+
+  
+---
+
+## Revision Expectations
+
+* Revision = re - vision = seeing again
+* Involves more than spelling and grammar fixes and word changes; editing is only one component of revision
+* Things to consider:
+  * Recognize and re-articulate the purpose
+  * Refine the focus (audience and presentation)
+  * Clarify the argument
+  * Strengthen and hone evidence
+
+> [https://writingcenter.unc.edu/tips-and-tools/revising-drafts/](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/ )

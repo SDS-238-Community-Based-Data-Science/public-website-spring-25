@@ -1,0 +1,54 @@
+---
+title: "Day Eight: Research Ethics"
+subtitle: "SDS 237: Data Ethnography"
+author: |
+  Lindsay Poirier<br/>
+  <span style = 'font-size: 70%;'>
+  [Statistical & Data Sciences](http://www.smith.edu/sds), Smith College<br/>
+  </span>
+date: |
+  Spring 2023<br/>
+  `r sds::img_logo(width = 64)`
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Free-write for the next 2 minutes: You've submitted your first assignment - both individual and group. What have you learned so far that's sticking with you the most? What questions do you have about course infrastructure? What challenges have you run into?
+
+---
+
+## I encourage you to come to office hours if...
+
+- You'd like to discuss strategies for managing the reading/workload.
+- You'd like clarifications on any of the assignment expectations/course infrastructure.
+- You'd like to review certain concepts discussed in lecture or the readings.
+- You'd like to chat about opportunities for exploring more about data ethnography. 
+- You're stressed and need some positive affirmation. 
+
+---
+
+# What were some takeaways from Thursday's class?
+
+
+---
+
+# Dataset Review in Project Groups
+
+
+

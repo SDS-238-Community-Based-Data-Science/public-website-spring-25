@@ -1,0 +1,41 @@
+---
+title: "Peopling the Data"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Purpose and Instructions
+
+This checkpoint aims to document the rituals of collection that shape your final project dataset. 
+
+## Part 1: Data Commensurability
+
+What changes to data environments might make the data collected in one time period or setting incommensurable with data collected in another time period or setting? 
+
+**Fill response here.**
+
+## Part 2: Detail a Data Collection Practice
+
+Determine a stakeholder that is predominantly responsible for data collection in your dataset. Find a YouTube video of this stakeholder at work or an instruction manual detailing the steps they should take to collect the data. *Thickly* describe the rituals of the data collection. In your writing, see if you can make the "familiar strange" by paying close attention to details that we might otherwise take for granted. Questions you might consider include: 
+
+* What standards (if any) must the data collectors follow when they encounter the environment on which they are collecting data? 
+* What tools do they use? 
+* What do they wear? 
+* During what time periods do they collect the data? 
+* Where do they go to collect the data? Are they alone or accompanied by others? 
+* How do they engage their senses when collecting the data?
+
+### Stakeholder: ____
+
+**Fill response here.**
+
+
+
+## Part 3: Identify How Standards Stylize Data
+
+In what ways do the habits you identified in Part 2 address some of the commensurability concerns raised in Part 1? How might the numbers look different if different rituals were engaged?
+
+**Fill response here.**

@@ -1,0 +1,150 @@
+---
+title: "Day Ten: Labor and Interviewing"
+subtitle: "SDS 237: Data Ethnography"
+author: "Lindsay Poirier"
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## You are scheduled to interview an AI "ghost worker." What is one question you might ask them to deepen understanding of the social configurations of their work?
+
+---
+
+## Turn to a neighbor and discuss:
+
+- How would the response to this question deepen understanding of the cultural underpinnings of a data infrastructure?
+
+---
+
+# Reading Discussion
+
+---
+
+## When do ethnographers interview...
+
+- To gather historical narratives based on insider knowledge 
+- To gather detail about how people narrate their activities/work
+- To ascertain individual assumptions and commitments
+- To deepen understanding of how people see themselves fitting into their social worlds and how they communicate that
+
+---
+
+## Things to keep in mind...
+
+- Interviews are co-constructed by the interviewer and the interviewee
+
+> What does that mean? Why does it matter?
+
+- Interviews are not aiming to get at the "truth" of events but to capture how people narrate them
+
+> What does that mean? Why does it matter?
+
+
+
+---
+
+## Qualitative Interviews
+
+- Involve open-ended questions seeking in-depth explanations and articulations
+- Are often *semi-structured*
+  - Enables researchers to follow-up, asking the hows and the whys
+  - Allows the interviewee the flexibility to communicate from their perspective
+
+---
+
+# Five Why's Practice
+
+---
+
+## Preparing for an interview
+
+- Identify an individual that can provide unique perspective 
+- Reach out to that individual requesting an interview
+- Coordinate a date, time, and location for the interview. If conducting through Zoom, create a shared meeting link. Note how location matters for the tone of the interview.
+- Ask interviewee to sign informed consent form
+- Conduct background research on the individual being interviewed and the institutions they are a part of. 
+- Create an interview guide - with framing questions and transitions. 
+
+---
+
+# How might we structure the flow of an interview? What kinds of questions do we start with and end with?
+
+---
+
+## Interview Guides
+
+- General flow:
+  - Start with more general question and move to more specific questions
+  - Start with more matter-of-fact questions and move to more intimate questions as you build trust 
+  - Close with a few lighter questions that prepare for friendly conclusion
+- Preparing the guide:
+  - Write more interview questions than you will have time to get to.
+  - Group questions according to similar topics and themes. 
+  - Prepare transitions for moving between topics.
+
+---
+
+## Framing Questions
+
+- Ask questions that encourage elaboration and description.
+- Consider how to frame questions so that they make sense to the interviewee:
+  - My research question: What values inform your data work?
+  - My interview questions: 
+    - What motivated you get involved in this work? 
+    - Who were your primary inspirations in this area and why?
+    - What theorists/books were you reading as you got involved in this work? Do you find that relevant to your work today?
+
+---
+
+## During the Interview
+
+- Thank the individual for joining, introduce yourself, and remind them of the purpose of the interview
+- Start the recording, and state your name, the date/time, the location, and the person being interviewed
+- Confirm on the recording that the interviewee agrees to be interviewed
+- Draw questions from the interview guide that maintain the overall flow of the interview. Regularly ask interviewees to elaborate by asking "how?" and "why?" questions. 
+- Takes notes on things the recording can't pick up on (e.g. Body language, Tone, Things you are reminded of as they're speaking) 
+
+---
+
+## Engaging during the Interview
+
+- Engage in active listening (direct eye contact, nodding)
+- Don’t rush the interviewee to move onto a new question.
+- If the conversation veers allow it momentarily and then politely redirect it with a statement like, "I'd like to return to what you were saying about… Can you describe…?"
+- Preface difficult conversations, and offer breaks if appropriate. 
+- Don’t try and finish an interviewee's sentences. 
+- Avoid explicitly sharing personal opinions on what they've said.
+- Contemplate ways to reframe questions that an interviewee evades, exaggerates, or provides limited information on.
+
+---
+
+## Thursday's Reading
+
+-   Considering "what is data science" in universities
+-   Interested in the work that people do to draw the boundaries of data science
+-   Outlines two visions of what kind of discipline data science is
+  -   Transdiscipline
+    -   Boundary work by university leaders
+  -   Extradiscipline
+    -   Boundary work by the people actually doing data science
+-   Pay attention to how these two different visions of data science get enacted!
+
+  
+

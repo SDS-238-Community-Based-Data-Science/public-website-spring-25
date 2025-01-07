@@ -1,0 +1,93 @@
+---
+title: "Day Eight: Ethnographies of Infrastructure"
+subtitle: "SDS 237: Data Ethnography"
+author: "Lindsay Poirier"
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+# Make a long list of everything (both material and non-material) that enabled you to arrive in class today. What had to exist for this to be possible? 
+
+---
+
+## Turn to your neighbor and discuss:
+
+Pick one supporting infrastructure: 
+
+- How often do you think about this infrastructure? 
+- Is it always an enabling infrastructure? When might it not be?
+
+---
+
+# Reading Discussion
+
+---
+
+## Relationality of Infrastructure
+
+> infrastructue is a fundamentally relational concept, becoming real infrastructure in relation to organized practice.
+
+- Often we think of infrastructure as "just there"
+- Assumes that infrastructure is the same thing for all people all of the time
+- Viewing infrastructure as "relational" acknowledges that certain things *become* infrastructure to different people in different moments
+- Not so much "what is infrastructure" but "when is infrastructure"
+
+---
+
+## Star's Definition of Infrastructure
+
+- Embeddedness: Sunk into other socio-technical structures
+- Transparency: Does not need to continuously be reassembled
+- Reach or Scope: Connects more than one site
+- Learned as part of membership: Use naturalized through communities of practice
+- Embodiment of standards: Component parts can connect through standardized conventions
+- Built on an installed base: Wrestles with the logics of its underlying infrastructures
+- Visible upon breakdown: Often taken for granted until breaking
+
+---
+
+## Master Narratives
+
+- Singular voice designed into infrastructures that do not attend to diversity
+- Assumed to speak for everyone
+- Identifying involves asking: what has been made other by the design of this infrastructure?
+
+---
+
+## Invisible Work
+
+- Work that fades into the background when presenting an infrastructure
+- Sometimes invisible because that work is "tacit" or rote
+- Sometimes structurally hidden from view
+- Identifying involves asking: what forms of labor tend to go unrecognized when looking at this infrastructure
+
+---
+
+## "Women made up 47% of the U.S. civilian labor force in 2023, up from 30% in 1950..."
+
+::: aside 
+Schaeffer, Katherine. 2024. “For Women’s History Month, a Look at Gender Gains – and Gaps – in the U.S.” Pew Research Center (blog). February 27, 2024. https://www.pewresearch.org/short-reads/2024/02/27/for-womens-history-month-a-look-at-gender-gains-and-gaps-in-the-us/.
+:::
+
+---
+
+
+
