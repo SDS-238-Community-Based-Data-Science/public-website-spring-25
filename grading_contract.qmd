@@ -39,7 +39,12 @@ See our [course attendance policy](index.html#Attendance). Note that, after the 
 
 You have registered for a course that demands a great deal of accountability to different stakeholders. Deadlines in this course are not arbitrary. I've paced them very deliberately to ensure that you can complete a project for a real-world organization by the time that they need the outputs of that project. As a class, we are accountable to a real-world project sponsor; incomplete assignments could mean that our project sponsors cannot achieve their goals. We are also accountable to each other. Non-completion of assignments could hold up other groups that are supposed to build-off of foundational work. If the timely completion of assignments could pose a problem for you, I encourage you to speak with me as soon as possible.
 
+## What happens if I complete an assignmnet, but do not complete the self-assessment?
+
+If you do not complete a self-assessment, then unfortunately, you will lose out on the opportunity to provide input into your grade. In these cases, your grade will be determined solely by my assessment of your work. 
+
 ## What can I expect regarding the flow of this course?
 
 This course is designed to have a large group of students collaboratively scope and tackle a real-world project. I have done the best that I can to structure our course in ways that enable you to approach that project systematically and in accordance with certain tried-and-true project management frameworks. However, as with any real world project, I can't anticipate everything that will come up. Further, the scope of many assignments that will be completed later in the course is dependent on what we learn along the way. In enrolling in this course, you are choosing to engage in a learning environment that has a certain degree of uncertainty built-in. I see this as the primary pedagogical value of a course like this; you're learning how to approach and adapt to the messiness of real world environments. 
+
 
