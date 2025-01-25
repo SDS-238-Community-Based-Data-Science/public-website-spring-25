@@ -1,6 +1,6 @@
 ---
 title: "Day One: Introductions"
-subtitle: "SDS 237: Data Ethnography"
+subtitle: "SDS 238: Community-Based Data Science"
 author: Lindsay Poirier
 format: 
   revealjs:
@@ -18,55 +18,9 @@ execute:
   warnings: false
 ---
 
-## Exercise
+## Free-writing (3 minutes): What does community mean to you?
 
-:::: {.columns}
 
-::: {.column width="50%"}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Slb8pLiPCDg?si=eVz1_UFpTpWNSebO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-:::
-
-::: {.column width="50%"}
-
-- Ethnographers often collect more data than they know what to do with
-- Write as much as possible about:
-  - what people do/why they do it
-  - beliefs/values/expertise
-  - social structures
-  - questions you are left with
-  
-:::
-:::
-
----
-
-## What is ethnography?
-
-- study of human culture and social relations
-- involves interactions and observations, recording, and analysis
-- data collection methods are predominantly qualitative 
-- analysis is predominantly *inductive* and *interpretive*
-
----
-
-# What is data?
-
----
-
-## What fields of research inform data ethnography?
-
-- Science and Technology Studies (STS)
-  - an interdisciplinary field that examines how science, technology, politics, and culture all co-produce each other
-  - STS disciplines include anthropology, sociology, literary studies, political science, economics, and more
-  - What might be some examples?
-- Critical Data Studies
-  - an interdisciplinary field examining the epistemological, political, social, and ethical aspects of data artifacts, practices, and infrastructures
-  - What are some political dimensions of data? Examples?
-  - What are some ethical dimensions of data? Examples?
-  - Is there a difference?
-  
 ---
 
 ## Who is the professor? Why is an anthropologist teaching data science?
@@ -82,13 +36,15 @@ execute:
 
 ---
 
-## My Pedagogy
+## This course will be...
 
-1. Inviting students to question taken-for-granted ideas and discourses
-2. Prioritizing growth in critical thinking and awareness over mastery of concepts
-3. Balancing *consistent practice* with *in-depth engagement*
-4. Confronting complex concepts through diverse learning modes
-5. Prioritizing an ability to question/grapple over an ability to resolve/comply
+1. active
+2. collaborative
+3. agile
+4. accountable to a real world sponsor
+5. strict about deadlines
+6. impactful
+
 
 ---
 
@@ -97,22 +53,63 @@ execute:
 - Attendance and Late Arrivals
 - Slack
 - Academic Honesty
-- Grading Contract
+- Assessment
   - Deadlines
-- Community Labor
-  - Class Notes
 - Well-being
-- Seating
+- Accommodations
+- Format
+
+---
+
+## The Solidago Foundation
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/430773914?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Solidago 2020"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+---
+
+## The Context
+
+- We are supporting Solidago's Legacy project. 
+- The Foundation is winding down operations this year. 
+- They are seeking to summarize and historicize narratives from their decades of grant-making. 
+- We will be helping them do so, specifically focused on their international grantees.
+
+---
+
+## The Problem
+
+- The themes that Solidago wishes to document are dispersed across about 200 unstructured grant dockets (from 1999 to 2012).
+- Some, but not all, of the dockets are digitized.
+- Metrics to be analyzed have not yet been defined.
+- Solidago is hoping that we can produce both quantitative data reports and also qualitative narratives from our analysis of the documents. 
+
+---
+
+## Skills 
+
+- Interviewing
+- Qualitative data analysis (inductive and deductive coding)
+- Data visualization and story-telling
+- Textual data analysis (possibly)
+- Others to be determined as we scope the project as a class...
+
+---
+
+## Activity
+
+1. Navigate to Solidago's website
+2. When was Solidago founded?
+3. What does Solidago fund?
+4. What does Solidago believe about change?
+5. What does Solidago prioritize in grant-making?
+
 
 ---
 
 ## Course Set-up: Google Drive
 
-1. Create a folder in Google Drive called: [YOUR-NAME-SDS-237]
+1. Create a folder in Google Drive called: [YOUR-NAME-SDS-23b]
 2. Share the folder with me (Right click on the folder and Share with lpoirier@smith.edu)
-3. Create a copy of [this spreadsheet](https://docs.google.com/spreadsheets/u/1/d/187FGeX9ByXa4-1hnqFFY5H-j4Aq8bAwbLjnVyJnGGyc/copy)
-4. Move the spreadsheet into the folder you shared with me
-5. Edit the name in the title to your name
 
 ---
 
@@ -121,11 +118,11 @@ execute:
 
 1. Install Slack Desktop on your computer ([Mac](https://slack.com/intl/en-gb/downloads/mac)/[Windows](https://slack.com/downloads/windows))
 2. Log-in using your Smith credentials to access the Smith College workspace
-3. Find the #general SDS-237-01-202501, right click on it, Move Channel > Move to New Section. Name the section SDS 237.
+3. Find the #general SDS-238-01-202503, right click on it, Move Channel > Move to New Section. Name the section SDS 237.
 4. Repeat these steps for the following three channels
-  -   #random SDS-237-01-202501
-  -   #sds-237-questions  SDS-237-01-202501
-  -   #sds-237-discussions SDS-237-01-202501
+  -   #random SDS-238-01-202503
+  -   #sds-238-questions  SDS-237-01-202503
+  -   #sds-238-discussions SDS-237-01-202503
 
 If you want to get email notifications for Slack, click your profile picture > Preferences, scroll the bottom, and check "Send me email notifications for mentions and direct messages"
 
@@ -135,7 +132,8 @@ If you want to get email notifications for Slack, click your profile picture > P
 
 -   First reading in Perusall
 -   Syllabus Quiz
--   Class notes sign-up; First day of class questionnaire; Trigger warnings form
+-   User Manual (due Thursday at 5PM)
+-   First day of class questionnaire; Trigger warnings form
 
 
 
