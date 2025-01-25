@@ -5,7 +5,7 @@ project:
 website:
   navbar:
     background: primary
-    title: "SDS 237: Data Ethnography"
+    title: "SDS 238: Community-Based Data Science"
     right:
       - text: "Syllabus"
         href: index.html
@@ -13,8 +13,6 @@ website:
         href: grading_contract.html
       - text: "Assignments"
         href: assignments.html
-      - text: "Learning Dimensions"
-        href: learning_dimensions.html        
       - text: "Schedule"
         href: schedule.html
 

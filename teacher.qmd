@@ -1,0 +1,20 @@
+---
+title: "Teacher Test Docs"
+editor: source
+---
+```{r}
+#install.packages("pdftools")
+#install.packages("tm")
+library(pdftools)
+library(tm)
+
+text <- pdf_text("~/Downloads/000628 Progessive Tech Cover sheets.pdf")
+text2 <- strsplit(text, "\n")
+
+read <- readPDF(control = list(text = "-layout"))
+document <- Corpus(URISource("~/Downloads/000628 Progessive Tech Cover sheets.pdf"), readerControl = list(reader = read))
+doc <- content(document[[1]])
+page_breaks <- grep("\\f", doc)
+doc[page_breaks[1]]
+```
+
