@@ -43,6 +43,14 @@ If you want to get email notifications for Slack, click your profile picture > P
 
 ---
 
+
+## Course Set-up: GitHub Repo
+
+1. Add your GitHub handle to the spreadsheet linked in the #general Slack channel!
+2. If you don't have a GitHub handle, DM me on Slack, and I'll give further instructions. 
+
+---
+
 ## Envisioning/Scoping Projects
 
 - Problems: What is the problem that this project is addressing?
@@ -55,11 +63,11 @@ If you want to get email notifications for Slack, click your profile picture > P
 
 ## SMART Goals
 
-S - Specific
-M - Measurable
-A - Achievable
-R - Relevant
-T - Time-Bound
+- S - Specific
+- M - Measurable
+- A - Achievable
+- R - Relevant
+- T - Time-Bound
 
 ---
 
@@ -76,6 +84,7 @@ Link to document [here](https://docs.google.com/document/d/1cYWOSncV3gxlhobjx3v9
 ## Homework
 
 -   Finish User Manual (and add to Google Folder by tomorrow at 5PM)
+-   Complete CATME survey by tomorrow if you haven't yet
 -   Student manuals for your group will be uploaded to Perusal Thursday evening; Read and annotate them for Monday
 -   Get started on course infrastructure set-up (due next Wednesday)
 
