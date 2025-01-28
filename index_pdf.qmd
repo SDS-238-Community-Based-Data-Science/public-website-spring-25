@@ -1,0 +1,263 @@
+---
+title: "SDS 238: Community-Based Data Science"
+author: "Lindsay Poirier"
+date: "Last updated on `r Sys.Date()`"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# Syllabus
+
+```{r}
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+library(bsplus)
+library(htmltools)
+```
+
+
+This course introduces concepts in human-centered design and design justice, considering how their principles can be applied in the context of community-based data science work. Students will learn how to define social problems, engage stakeholders, design data science solutions, and evaluate social impact. Students will also learn techniques in collaborative data science project planning and execution, engaging best practices (e.g. version control and code review) in the context of a community-based data science project. Strategies for effectively communicating project approach, outcomes, and impact will be addressed throughout the course. 
+
+SDS 192 OR CCX 120: Intro to Data Science or CCX intro are prerequisites for this course. 
+
+Upon completion of this course, you should be able to:
+
+-   Translate needs from stakeholders into data science tasks and products  
+-   Divide large tasks into subtasks and estimate the amount of time necessary to complete them
+-   Organize work within an existing software development framework
+-   Navigate collaborative work effectively, addressing and leveraging challenges that come up within diverse groups
+-   Contribute code and/or text to a collaborative data science project using a version control system
+-   Communicate complex data science concepts and professional ethical standards of practice to stakeholders
+-   Evaluate the interests and influences of stakeholders within their communities
+-   Apply ethical principles in the context of a real-world problem
+-   Provide constructive feedback to peers about their programming, writing, and collaborative engagement
+
+
+Classes will be held on Mondays and Wednesdays from 10:50 AM to 12:10 PM. 
+
+## Course Instructor
+
+::: float_image_right
+```{r}
+#| label: Lindsay Poirier
+#| fig-cap: Lindsay Poirier, she/her/hers.
+#| out.width: "200px"
+knitr::include_graphics("https://lindsaypoirier.github.io/images/profile.png")
+```
+:::
+
+I am a cultural anthropologist that studies how civic data gets produced, how communities think about and interface with data, and how data infrastructure can be designed more equitably. My Ph.D. is in an interdisciplinary discipline called Science and Technology Studies - a field that studies the intricate ways science, technology, culture, and politics all co-constitute each other. I work on a number of collaborative research projects that leverage public data to deepen understanding of social and environmental inequities in the US, while also qualitatively studying the politics behind data gaps and inconsistencies. As an instructor, I prioritize active learning and often structure courses as flipped classrooms. You can expect in-class time to predominantly involve group activities and live problem-solving exercises.
+
+### Getting in Touch
+
+::: panel-tabset
+
+#### Slack
+
+I can best support students in this course when I can readily keep tabs on our course-related communication. Because of this, I ask that you please don't email me regarding course-related questions or issues. The best way to get in touch with me is via our course Slack. If you have course-related questions, I encourage you to ask them in the `#sds-238-questions` channel. When discretion is needed, feel free to DM. Please reserve more formal concerns like grades or accommodation requests for an in-person (or in-person virtual) conversation.
+
+*During the week, I will try my best to answer all Slack messages within 24 hours of receiving them. Please note that to maintain my own work-life balance, I don't answer Slack messages late in the evenings or on the weekends. It's important that you plan when you start your assignments accordingly.*
+
+#### Meeting with Me
+
+Meeting with me outside of class is a great opportunity for us to chat about what you're learning in the course, clarify expectations on assignments, and review work in progress. I also love when students drop in to office hours to request book recommendations, discuss career or research paths, or just to say hi! 
+
+There are two ways to meet with me. If you would like to have a one-on-one private conversation, I ask that you schedule an appointment with me via the [booking form on Moodle](https://moodle.smith.edu/mod/url/view.php?id=1278666). For support on class topics, you may drop-in during my regularly scheduled office hours.
+
+-   Monday, 3:00PM-4:00PM, McConnell 214
+-   Wednesday, 2:00PM-3:00PM, McConnell 214
+
+:::
+
+## Course Texts
+
+Costanza-Chock, Sasha (2020). Design justice: community-led practices to build the worlds we need. Information policy. Cambridge, Massachusetts: The MIT Press. ISBN: 9780262043458.
+
+This textbook is available Open Access online. All texts will be made available via our course Perusall.
+
+## Assessment
+
+This course will be graded via [collaborative assessment](grading_contract.html).
+
+::: callout-tip
+## Jacobson Center
+
+Smith's [Jacobson Center](https://www.smith.edu/academics/jacobson-center) asserts that *all* students can improve their communication and learning skills. I encourage all students to take advantage of their writing support services, workshops, and tutors. 
+:::
+
+## Policies
+
+::: panel-tabset
+### Preparation
+
+This is a 4-credit course with 3 hours per week of in-classroom instructions. Smith expects students to devote 9 out-of-class hours per week to 4-credit classes. I have designed the course assignments and selected the course readings with this target in mind.
+
+### Attendance
+
+Attendance in this course is critical as we will use class time to keep projects moving forward. Attendance will be taken each class period. That said, we all have reasons we can't be available from time-to-time. You may miss **three classes with no penalty**. You do not need to inform me that you will be absent in these cases, but you should let your group members know. After the third unexcused absence, your final grade may drop by 5 points for each class missed. I understand that you may need to be absent beyond these three sessions. Additional absences may be excused due to family/personal difficulties, sickness, or school or career-related activities; however, I will require some form of documentation for these absences. Please speak with your class dean or the Accessibility Resource Center so that we can get documentation of your need.
+
+I also ask that you make every effort to arrive to class on time. This is a large course, and when students arrive late, it can be distracting for me as the instructor, and it can be distracting to other students in the course. It also makes it difficult for me to plan group activities. Students arriving more than 10 minutes late for class without having informed me ahead of time will be marked as absent.
+
+If you must miss a class entirely, you should contact a peer to discuss what was missed. Please note that the [SDS Program](https://www.smith.edu/academics/statistics) has adopted a shared policy regarding in-person attendance:
+
+> In keeping with Smith’s core identity and mission as an in-person, residential college, SDS affirms College policy (as per the Provost and Dean of the College) that students will attend class in person. SDS courses will not provide options for remote attendance. Students who have been determined to require a remote attendance accommodation by the Accessibility Resource Center will be the only exceptions to this policy. As with any other kind of ADA accommodations, please notify your instructor during the first week of classes to discuss how we can meet your accommodations. 
+
+### Extensions
+
+In this course, we are accountable to an external partner. Delivering a final product in 15 weeks demands that we are all coordinated in the completion of components of that product. My extension policy reflects this. 
+
+*For individual assignments.* There is a 24-hour grace period on all individual written assignments. There will be no penalties for submitting the written assignment within this 24-hour period, and you do not need to inform me that you intend to take the extra time. You can also request up to a 72-hour extension on any individual written assignment, as long *as you make that request at least 48 hours before the original assignment due date*. You can request an extension by filling out the [Extension Request form](https://moodle.smith.edu/mod/questionnaire/view.php?id=1278665) on Moodle, and I will confirm your extension on Slack. Beyond this, individual late assignments will not receive credit. 
+
+*For group assignments.* Submitting a group assignment late could mean that your group cannot participate in class that day. It could also mean that another group will be unable to start their next steps. With this in mind, I will grant extensions for group assignments only in extenuating circumstances. A representative from your group should reach out to me on Slack to request this. A group will not receive credit for late assignments, unless they have coordinated an extension deadline with me ahead of time
+  
+*For reading assignments.* We will discuss readings in class, so it is important that you have read them before class. *Reading assignments/Perusall annotations need to be completed by the due date for credit.*
+
+### Academic Honesty
+
+> Smith College expects all students to be honest and committed to the principles of academic and intellectual integrity in their preparation and submission of course work and examinations. Students and faculty at Smith are part of an academic community defined by its commitment to scholarship, which depends on scrupulous and attentive acknowledgement of all sources of information, and honest and respectful use of college resources. Any cases of dishonesty or plagiarism will be reported to the Academic Honor Board. Examples of dishonesty or plagiarism include:
+
+-   Submitting work completed by another student as your own.
+-   Copying and pasting words from sources without quoting and citing the author.
+-   Paraphrasing material from another source without citing the author.
+-   Failing to cite your sources correctly.
+-   Falsifying or misrepresenting information in submitted work.
+-   Paying another student or service to complete assignments for you.
+-   Submitting work generated by artificially intelligent tools such as chatGPT
+
+### Generative AI
+
+The use of generative artificial intelligence tools is becoming increasingly ubiquitous in a number of domains of work. Despite the urge to push forward with this innovative technology, there are both pedagogical and social reasons that I do not allow students to use generative AI in the context of this course. 
+
+This course aims to facilitate the development of your ability to think critically, develop creative solutions, and express your ideas with care. The depth of your learning in this course cannot be assessed if Generative AI is aiding or doing this work for you. 
+
+Further, there are countless unresolved social concerns that stem from the use of generative AI - from the [loss of cultural heritage](https://issues.org/generative-ai-cultural-narratives-rettberg/), to the [limiting of human aspirations and viewpoints](https://issues.org/ai-limits-human-aspiration-dick-chun-canute/), to the [lack of formal mechanisms for regulating its potential social harms](https://issues.org/ai-ethics-human-experimentation-taylor/). Generative AI models often undermine scholarly values of credit by training on data harvested from across the internet that content creators have not provided express permission to use for these purposes. As an example, several academic journal articles that I have written were [recently sold to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai); I did not have an opportunity to opt out of this, and I will not receive any compensation for my contributions. [Copyright laws](https://issues.org/generative-ai-copyright-law-crawford-schultz/) have not been able to keep pace with the technology. 
+
+**Accordingly, any use of generative artificial intelligence in this course will be considered a case of academic dishonesty/plagiarism. I will monitor for use of Generative AI by reviewing the version history of your Google Documents.**
+
+:::
+
+## Community
+
+::: panel-tabset
+### Code of Conduct
+
+As the instructor for this course, I am committed to making participation in this course a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion. Examples of unacceptable behavior by participants in this course include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
+
+As the instructor I have the right and responsibility to point out and stop behavior that is not aligned to this Code of Conduct. Participants who do not follow the Code of Conduct may be reprimanded for such behavior. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the instructor.
+
+All students and the instructor are expected to adhere to this Code of Conduct in all settings for this course: seminars, office hours, and over Slack.
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.0.0, available [here](https://www.contributor-covenant.org/version/1/0/0/code-of-conduct/).
+
+### Principles of Community
+
+I hope that we can foster a collaborative and caring environment in this classroom: one that celebrates successes, respects individual strengths and weaknesses, demonstrates compassion for each other's struggles, and affirms diverse identities. Here are some ideas that I have for creating this environment in our course:
+
+-   Check-in with colleagues before starting collaborative work. "What three words describe how you're feeling?" "Name one challenge and one success from this week." "What are you doing for self-care right now?" Thank each other for sharing where they're at.
+-   Consider when to step up and when to step back in class discussions, creating space for others to contribute. Listening is just as important to community-building as speaking.
+-   Acknowledge that there is much we don't know about how our colleagues experience the world. ...but don't ask colleagues to speak on behalf of a social group you perceive them to be a part of.
+-   Cheer on colleagues as they give presentations or try something out for the first time.
+-   Ask questions often in our `#sds-238-questions` channel. Help each other out by answering questions when you can.
+-   Mistakes happen. I will certainly make mistakes in class. Admit mistakes, and then move on.
+
+### Pronouns
+
+Using the proper pronouns for our students is foundational to a safe, respectful classroom environment that creates a culture of trust. For information on pronouns and usage, please see the Office of Equity and Inclusion link here: [Pronouns](https://www.smith.edu/about-smith/equity-inclusion/gender-identity/pronouns)
+:::
+
+## Support
+
+::: panel-tabset
+### Accommodations
+
+It is my goal for everyone to succeed in this course. If you have personal circumstances that may impact your experience of our classroom, I encourage you to contact Accessibility Resource Center in College Hall 104 or at [arc\@smith.edu](mailto:arc@smith.edu). The Center will generate a letter that indicates to me what kind of support you need and how I can make your classroom experience more accommodating. Once you have this letter, you are welcome to visit my office hours or email me to discuss ideas about how we can tailor the course accordingly. While you can request accommodations at any time, the sooner we start this conversation, the better. If you have concerns about the course that are not addressed through ARC, please contact me. At no point will I ask you to divulge details about your personal circumstances to me.
+
+### Student Well-being
+
+College life is stressful, and life outside of college can be overwhelming. It is my position that attending to your physical and mental health and well-being should be a top priority. I will remind you of this often throughout the semester. I encourage you to schedule a time to talk with me if you are struggling with this course. If you, or anyone you know, is experiencing distress, there are numerous campus resources that can provide support via the [Schacht Center](https://www.smith.edu/student-life/health-wellness). I can point you to these resources at any time throughout the semester.
+
+### Trigger Warnings
+
+A trigger is a topic or image that can precipitate an intense emotional response. When common triggering topics are to be covered in this course, I will do my best to provide a trigger warning in advance of the discussion. However, I can't always anticipate triggers. With this in mind I've set up [an anonymous form](https://moodle.smith.edu/mod/questionnaire/view.php?id=1278664), available on Moodle, where you can indicate topics for which you would like me to provide a warning.
+:::
+
+## Infrastructure
+
+::: panel-tabset
+
+### Moodle
+
+Grades, forms, and handouts will be available on the course Moodle.
+
+### Perusall
+
+All course readings and recorded lectures will be available on Perusall. You can access Perusall via our course Moodle page.
+
+### Google Drive
+
+This semester, you will submit all of your written assignments in a Google Drive folder that you will create on the first day of class. You must write your assignments in Google Docs, as I will sometimes use the commenting features in Google docs when grading your work, and I will monitor the version history for plargiarism.
+
+### Slack
+
+Outside of class almost all of our communication will happen via Slack. You can use the following channels 
+
+-   `#general`: Course announcements (only I can post)
+-   `#sds-238-discussion`: Share news articles and relevant opportunities
+-   `#sds-238-questions`: Ask and answer questions about our course
+-   You can also create private Slack channels with your project group members.
+
+:::
+
+# Assessment
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r imports, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(bsplus)
+library(htmltools)
+```
+
+This course will use a form of collaborative assessment as a means of assessing your work. Collaborative assessment is a system of assessment that encourages students to focus more on growth and improvement towards certain learning objectives rather than achieving a certain quantitative score. Since this course convenes students with different types of expertise, collaborative assessment also honors the diversity of skills and modes of engagement that students are bringing to and improving throughout the course. As an instructor of such a course, when it comes to assignments, my role is more about providing feedback and less about measuring the quality of your work against certain pre-determined standards. In this course, you will formally reflect on how much effort you put into each assignment and what you think you achieved; I will offer my own assessments of how much effort I see reflected in your work and what I think you achieved. I will also offer suggestions for improvements to your work going forward. Together, we will use these assessments to determine your final grade.
+
+## How will this work, more specifically?
+
+To earn an A in this course, you must complete **all assignments** on the syllabus on time or by the date/time of an agreed upon extension. Any incomplete or late assignments will be docked a certain number of points from your final grade (the point amount will be specified in the course schedule). Given the clinic-based nature of this course, there are certain things you will need to do just to keep the project moving forward. These assignments will be graded for completion; as long as you complete the assignment on time, you will earn full credit for the assignment. 
+
+Other assignments will require you to engage in critical thinking, to define and situate technical problems, to devise creative solutions, or to reflect on your experiences. When submitting these assignments, you will provide an initial self-assessment of your work by filling out a form that will be attached to the assignment. Each form will be tailored towards the assignment, but in general, you will be asked to document the degree of effort you put into the assignment, your technical execution of the assignment, and the depth of reflection you engaged throughout the assignment, each on a scale of 1-10. I will then offer my own feedback on your assignments. After this, you will have an opportunity to revise your self-assessment based on my feedback. Please note that I reserve the right to adjust self-assessment scores if I find them considerably out of sync with my own assessments of your work. 
+
+Self-assessment scores will be averaged mid-semester to help you understand where you stand in the course. They will be averaged again at the end of the semester to determine your final grade. After this, the completion points associated with assignments you did not complete will be subtracted from the averaged grade, along with points associated with absences beyond the first three.
+
+## What time do I need to submit assignments?
+
+Assignments are due **before class** (10:50AM EST) on the designated due date. If you take the 24-hour grace period for individual written assignments (note that this is not an option for reading assignments adn group assignments), the assignment is due before (10:50AM EST) on the day following the designated due date. Any granted extensions are similarly due before 10:50AM EST on the date the deadline is extended to.
+
+
+## What are reading assignments?
+
+Most weeks a selection of course readings will be posted as a single assignment on Perusall - a system for students to collaboratively annotate course readings. You will be expected to post 3 quality annotations per assignment to Perusall. A quality annotation is one in which you synthesize concepts, ask thought-provoking questions, or connect ideas to external issues. I have found that students get the most out of Perusall when they respond to each other’s annotations. Each incomplete reading assignment will result in 2 points docked from the final grade. Annotations must be completed **before class** to receive credit.
+
+## How does attendance factor in to the final grade?
+
+See our [course attendance policy](index.html#policies). Note that, after the first 3 unexcused absences, 5 points will be subtracted from your averaged final grade for each additional absence. Late arrivals (>10 minutes late) that haven't been approved by me ahead of time will be counted as absences. 
+
+## Why are deadlines and the completion of assignments enforced so strongly in this course?
+
+You have registered for a course that demands a great deal of accountability to different stakeholders. Deadlines in this course are not arbitrary. I've paced them very deliberately to ensure that you can complete a project for a real-world organization by the time that they need the outputs of that project. As a class, we are accountable to a real-world project sponsor; incomplete assignments could mean that our project sponsors cannot achieve their goals. We are also accountable to each other. Non-completion of assignments could hold up other groups that are supposed to build-off of foundational work. If the timely completion of assignments could pose a problem for you, I encourage you to speak with me as soon as possible.
+
+## What happens if I complete an assignmnet, but do not complete the self-assessment?
+
+If you do not complete a self-assessment, then unfortunately, you will lose out on the opportunity to provide input into your grade. In these cases, your grade will be determined solely by my assessment of your work. 
+
+## What can I expect regarding the flow of this course?
+
+This course is designed to have a large group of students collaboratively scope and tackle a real-world project. I have done the best that I can to structure our course in ways that enable you to approach that project systematically and in accordance with certain tried-and-true project management frameworks. However, as with any real world project, I can't anticipate everything that will come up. Further, the scope of many assignments that will be completed later in the course is dependent on what we learn along the way. In enrolling in this course, you are choosing to engage in a learning environment that has a certain degree of uncertainty built-in. I see this as the primary pedagogical value of a course like this; you're learning how to approach and adapt to the messiness of real world environments. 
+
+
+
+

@@ -74,7 +74,7 @@
     "href": "schedule.html#january-29-2025",
     "title": "Schedule",
     "section": "January 29, 2025",
-    "text": "January 29, 2025\n\nDefining Social Problems, Aims, Goals, and Theories of Change\n\nDue TodayFurther Resources\n\n\n Introduction , Costanza-Chock, Sasha (2020). Design Justice: Community-Led Practices to Build the Worlds We Need. Erscheinungsort nicht ermittelbar: The MIT Press. ISBN: 978-0-262-04345-8. Read in Perusall\n User Manual Due (3)\n Syllabus Quiz Due (2)\n First Day of Class Form (optional)\n Trigger Warnings Form (optional)"
+    "text": "January 29, 2025\n\nDefining Social Problems, Aims, Goals, and Theories of Change\n\nDue TodayFurther Resources\n\n\n Introduction , Costanza-Chock, Sasha (2020). Design Justice: Community-Led Practices to Build the Worlds We Need. Erscheinungsort nicht ermittelbar: The MIT Press. ISBN: 978-0-262-04345-8. Read in Perusall\n User Manual Due (3)\n Syllabus Quiz Due (2)\n First Day of Class Form (optional)\n Trigger Warnings Form (optional)\n\n\n Course slides are here"
   },
   {
     "objectID": "schedule.html#february-03-2025",
@@ -558,5 +558,61 @@
     "title": "Day One: Introductions",
     "section": "Activity",
     "text": "Activity\n\nNavigate to Solidago’s website\nWhen was Solidago founded?\nWhat does Solidago fund?\nWhat does Solidago believe about change?\nWhat does Solidago prioritize in grant-making?"
+  },
+  {
+    "objectID": "infrastructure.html",
+    "href": "infrastructure.html",
+    "title": "Infrastructure Set-up",
+    "section": "",
+    "text": "Setting up your R/GitHub Environment\n\n\n\n\n\n\nPeer Support\n\n\n\nSome of you may already have GitHub set-up on your computers, and you will be able to skip most steps of this assignment. If that’s the case, you might be willing to help other students that are installing for the first time (and for whom this assignment will take much more time). If you’d be willing to act as a mentor for this assignment, please send me a note a Slack. If you are working through this assignment and are struggling, reach out to me on Slack, and I can connect you with a peer mentor.\n\n\n\nCreate a GitHub account and send Lindsay your username on Slack. Wait for her confirmation to proceed.\nFollow the instructions in chapters 4-6 at https://happygitwithr.com/ to install R and RStudio if you haven’t already. Open RStudio.\nCheck to ensure you have git installed by opening RStudio and clicking on Tools &gt; Global Options &gt; Git/SVN tab. Check the top of the pane for a field for the Git executable. It should say something like: “/usr/bin/git” or “C:/Program Files/Git/”. If it says “(Not Found)” git is not installed.\nIf git is not installed, follow instructions in chapter 7 at https://happygitwithr.com/\nEdit your git config by following these instructions:\n\n\nEdit gitconfig file from David Keyes.\n\n\nCreate a personal access token here by following the instructions in the video below.\n\n\n\n\n\n\n\nImportant\n\n\n\nBe sure to create a classic token. Do not attempt to create a beta version token. Also be sure to set the expiration date to 150 days. Otherwise, we will have to update your token this semester, and that’s a headache we don’t need.\n\n\n\nCreate a Personal Access Token (PAT) on GitHub from David Keyes.\n\n\nStore your personal access token by following these instructions:\n\n\nStore Personal Access Token to Connect RStudio and GitHub from David Keyes.\n\n\nCopy the following URL:\n\nhttps://github.com/SDS-238-Community-Based-Data-Science/Solidago/tree/main\n\nCreate a project in RStudio from this GitHub repo by following the instructions starting at 26 seconds of this video:\n\n\nHow to Connect RStudio Projects with GitHub Repositories: GitHub First from David Keyes.\n\n\nOn the initial install, the Files tab will be in the lower right hand corner of RStudio. Open README.md. Find your last name in the list and between the two brackets - [ ], remove the space and add a lowercase x. Save README.md.\nFollow the instructions in this video starting at 14 seconds to commit your code:\n\n\nMake a Commit and View More History from David Keyes.\n\n\nPush your code to GitHub.com by following the instructions in this video starting at 27 seconds:\n\n\nGeneral Workflow: Push from David Keyes.\n\n\nNavigate here to ensure that there is a checkbox next to your name."
+  },
+  {
+    "objectID": "slides/Day2-Proposal.html#course-set-up-google-drive",
+    "href": "slides/Day2-Proposal.html#course-set-up-google-drive",
+    "title": "Day Two: Problem, Goals, and Vision",
+    "section": "Course Set-up: Google Drive",
+    "text": "Course Set-up: Google Drive\n\nCreate a folder in Google Drive called: [YOUR-NAME-SDS-238]\nShare the folder with me (Right click on the folder and Share with lpoirier@smith.edu)\nClick on this link to create a course assignment log. Add your name to the title.\nMove the log into your shared folder."
+  },
+  {
+    "objectID": "slides/Day2-Proposal.html#course-set-up-slack",
+    "href": "slides/Day2-Proposal.html#course-set-up-slack",
+    "title": "Day Two: Problem, Goals, and Vision",
+    "section": "Course Set-up: Slack",
+    "text": "Course Set-up: Slack\n\nInstall Slack Desktop on your computer (Mac/Windows)\nLog-in using your Smith credentials to access the Smith College workspace\nFind the #general SDS-238-01-202503, right click on it, Move Channel &gt; Move to New Section. Name the section SDS 238.\nRepeat these steps for the following three channels\n\n\n#random SDS-238-01-202503\n#sds-238-questions SDS-237-01-202503\n#sds-238-discussions SDS-237-01-202503\n\nIf you want to get email notifications for Slack, click your profile picture &gt; Preferences, scroll the bottom, and check “Send me email notifications for mentions and direct messages”"
+  },
+  {
+    "objectID": "slides/Day2-Proposal.html#envisioningscoping-projects",
+    "href": "slides/Day2-Proposal.html#envisioningscoping-projects",
+    "title": "Day Two: Problem, Goals, and Vision",
+    "section": "Envisioning/Scoping Projects",
+    "text": "Envisioning/Scoping Projects\n\nProblems: What is the problem that this project is addressing?\nGoals: What do you hope to achieve by the end of the project?\nProcess: What actions/strategies will you take to achieve the goals?\nValue: What impacts/benefits may be realized as a result of this project?\nDesign Considerations: What design values do you want to prioritize as you engage the project?"
+  },
+  {
+    "objectID": "slides/Day2-Proposal.html#smart-goals",
+    "href": "slides/Day2-Proposal.html#smart-goals",
+    "title": "Day Two: Problem, Goals, and Vision",
+    "section": "SMART Goals",
+    "text": "SMART Goals\nS - Specific M - Measurable A - Achievable R - Relevant T - Time-Bound"
+  },
+  {
+    "objectID": "slides/Day2-Proposal.html#new-years-resolution-activity",
+    "href": "slides/Day2-Proposal.html#new-years-resolution-activity",
+    "title": "Day Two: Problem, Goals, and Vision",
+    "section": "New Year’s Resolution Activity",
+    "text": "New Year’s Resolution Activity\nLink to document here"
+  },
+  {
+    "objectID": "slides/Day2-Proposal.html#proposal-activity",
+    "href": "slides/Day2-Proposal.html#proposal-activity",
+    "title": "Day Two: Problem, Goals, and Vision",
+    "section": "Proposal Activity",
+    "text": "Proposal Activity"
+  },
+  {
+    "objectID": "slides/Day2-Proposal.html#homework",
+    "href": "slides/Day2-Proposal.html#homework",
+    "title": "Day Two: Problem, Goals, and Vision",
+    "section": "Homework",
+    "text": "Homework\n\nFinish User Manual (and add to Google Folder by tomorrow at 5PM)\nStudent manuals for your group will be uploaded to Perusal Thursday evening; Read and annotate them for Monday\nGet started on course infrastructure set-up (due next Wednesday)"
   }
 ]

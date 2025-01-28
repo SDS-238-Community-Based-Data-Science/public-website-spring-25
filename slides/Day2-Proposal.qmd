@@ -1,0 +1,83 @@
+---
+title: "Day Two: Problem, Goals, and Vision"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+## Course Set-up: Google Drive
+
+1. Create a folder in Google Drive called: [YOUR-NAME-SDS-238]
+2. Share the folder with me (Right click on the folder and Share with lpoirier@smith.edu)
+3. Click on [this link](https://docs.google.com/spreadsheets/d/1W5bcHwVjEiO_DFqT5M0hq09QrWnYeuZbknO9eNpAVYE/copy) to create a course assignment log. Add your name to the title.
+4. Move the log into your shared folder.
+
+---
+
+
+## Course Set-up: Slack
+
+1. Install Slack Desktop on your computer ([Mac](https://slack.com/intl/en-gb/downloads/mac)/[Windows](https://slack.com/downloads/windows))
+2. Log-in using your Smith credentials to access the Smith College workspace
+3. Find the #general SDS-238-01-202503, right click on it, Move Channel > Move to New Section. Name the section SDS 238.
+4. Repeat these steps for the following three channels
+  -   #random SDS-238-01-202503
+  -   #sds-238-questions  SDS-237-01-202503
+  -   #sds-238-discussions SDS-237-01-202503
+
+If you want to get email notifications for Slack, click your profile picture > Preferences, scroll the bottom, and check "Send me email notifications for mentions and direct messages"
+
+---
+
+## Envisioning/Scoping Projects
+
+- Problems: What is the problem that this project is addressing?
+- Goals: What do you hope to achieve by the end of the project?
+- Process: What actions/strategies will you take to achieve the goals?
+- Value: What impacts/benefits may be realized as a result of this project?
+- Design Considerations: What design values do you want to prioritize as you engage the project?
+
+---
+
+## SMART Goals
+
+S - Specific
+M - Measurable
+A - Achievable
+R - Relevant
+T - Time-Bound
+
+---
+
+## New Year's Resolution Activity
+
+Link to document [here](https://docs.google.com/document/d/1cYWOSncV3gxlhobjx3v9Ihsw1PM50_yv9f3T1_EYlyE/copy)
+
+---
+
+## Proposal Activity
+
+---
+
+## Homework
+
+-   Finish User Manual (and add to Google Folder by tomorrow at 5PM)
+-   Student manuals for your group will be uploaded to Perusal Thursday evening; Read and annotate them for Monday
+-   Get started on course infrastructure set-up (due next Wednesday)
+
+
+

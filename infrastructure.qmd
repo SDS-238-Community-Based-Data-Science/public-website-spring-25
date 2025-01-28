@@ -1,0 +1,57 @@
+---
+title: "Infrastructure Set-up"
+editor: source
+---
+
+# Setting up your R/GitHub Environment
+
+::: callout-tip
+## Peer Support
+
+Some of you may already have GitHub set-up on your computers, and you will be able to skip most steps of this assignment. If that's the case, you might be willing to help other students that are installing for the first time (and for whom this assignment will take much more time). If you'd be willing to act as a mentor for this assignment, please send me a note a Slack. If you are working through this assignment and are struggling, reach out to me on Slack, and I can connect you with a peer mentor. 
+:::
+
+1. Create a GitHub account and send Lindsay your username on Slack. Wait for her confirmation to proceed. 
+2. Follow the instructions in chapters 4-6 at https://happygitwithr.com/ to install `R` and RStudio if you haven't already. Open RStudio.
+3. Check to ensure you have git installed by opening RStudio and clicking on Tools > Global Options > Git/SVN tab. Check the top of the pane for a field for the Git executable. It should say something like: "/usr/bin/git" or "C:/Program Files/Git/". If it says "(Not Found)" git is not installed. 
+
+4. If git is not installed, follow instructions in chapter 7 at https://happygitwithr.com/
+5. Edit your git config by following these instructions: 
+
+<p><a href="https://muse.ai/v/JLaUt3v-Configure-Git">Edit gitconfig file</a> from David Keyes.</p>
+
+6. Create a personal access token [here](https://github.com/settings/tokens) by following the instructions in the video below. 
+
+::: callout-warning
+## Important
+
+Be sure to create a **classic** token. Do not attempt to create a beta version token. Also be sure to set the expiration date to 150 days. Otherwise, we will have to update your token this semester, and that's a headache we don't need. 
+:::
+
+<p><a href="https://muse.ai/v/evn3xvX-Create-a-Personal-Access-Token-PAT-on-GitHub">Create a Personal Access Token (PAT) on GitHub</a> from David Keyes.</p>
+
+7. Store your personal access token by following these instructions: 
+
+<p><a href="https://muse.ai/v/NUGdUDd-Store-Personal-Access-Token-to-Connect-RStudio-and-GitHub">Store Personal Access Token to Connect RStudio and GitHub</a> from David Keyes.</p>
+
+8. Copy the following URL:
+
+`https://github.com/SDS-238-Community-Based-Data-Science/Solidago/tree/main`
+
+9. Create a project in RStudio from this GitHub repo by following the instructions starting at 26 seconds of this video:
+
+<p><a href="https://muse.ai/v/Way9iir-How-to-Connect-RStudio-Projects-with-GitHub-Repositories-GitHub-First">How to Connect RStudio Projects with GitHub Repositories: GitHub First</a> from David Keyes.</p>
+
+10. On the initial install, the Files tab will be in the lower right hand corner of RStudio. Open README.md. Find your last name in the list and between the two brackets `- [ ]`, remove the space and add a lowercase `x`. Save README.md.
+
+11. Follow the instructions in this video starting at 14 seconds to commit your code: 
+
+<p><a href="https://muse.ai/v/GrXBX2t-Make-a-Commit-and-View-More-History">Make a Commit and View More History</a> from David Keyes.</p>
+
+12. Push your code to GitHub.com by following the instructions in this video starting at 27 seconds:
+
+<p><a href="https://muse.ai/v/UJmQE7i-General-Workflow-Push">General Workflow: Push</a> from David Keyes.</p>
+
+13. Navigate [here](https://github.com/SDS-238-Community-Based-Data-Science/Solidago/tree/main) to ensure that there is a checkbox next to your name.
+
+
