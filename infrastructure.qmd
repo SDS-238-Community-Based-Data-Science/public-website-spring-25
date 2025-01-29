@@ -44,7 +44,7 @@ Be sure to create a **classic** token. Do not attempt to create a beta version t
 
 10. On the initial install, the Files tab will be in the lower right hand corner of RStudio. Open README.md. Find your last name in the list and between the two brackets `- [ ]`, remove the space and add a lowercase `x`. Save README.md.
 
-11. Follow the instructions in this video starting at 14 seconds to commit your code: 
+11. Follow the instructions in this video starting at 14 seconds to commit your code with the commit message "marked github setup complete for [your-name]": 
 
 <p><a href="https://muse.ai/v/GrXBX2t-Make-a-Commit-and-View-More-History">Make a Commit and View More History</a> from David Keyes.</p>
 
