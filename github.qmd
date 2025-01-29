@@ -120,7 +120,7 @@ Typically I recommend the long and elegant version for group work as it is desig
 ###### Question
 
 ::: question
-Navigate to [GitHub Classroom](https://classroom.github.com/a/4Xw_ziQz) to accept the assignment. For this assignment, you will work in teams of 3 at most. Enter the team name assigned to you in the spreadsheet I posted in Slack this morning. Everyone in the group should enter the same team name. 
+Navigate to [GitHub Classroom](https://classroom.github.com/a/46iEHfUQ) to accept the assignment. For this assignment, you will work in teams of 3 at most. Enter the team name assigned to you in the spreadsheet I posted in Slack this morning. Everyone in the group should enter the same team name. 
 :::
 
 ####### 
