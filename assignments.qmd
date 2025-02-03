@@ -10,8 +10,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Most weeks a selection of course readings will be posted as a single assignment on Perusall - a system for students to collaboratively annotate course readings. You will be expected to post 3 quality annotations per assignment to Perusall. A quality annotation is one in which you synthesize concepts, ask thought-provoking questions, or connect ideas to external issues. I have found that students get the most out of Perusall when they respond to each other’s annotations.
 
-## More to come as the project develops...
+## Proposal Component 1
 
+The proposal component 1 assignment is about getting the documents/policies together that will guide how we complete this project. There are two components to this assignment. 
+
+1. You should complete CITI Training for Human Subjects Research. You can access this training by following the instructions at this [link](https://www.smith.edu/academics/institutional-review-board/application-process#required-online-ethics-training-(citi)-0). This should take 2-3 hours. Once you are done, you will receive a certificate in the form of a PDF. Please add that certificate to your Google Drive. 
+2. Each project group will be assigned one section of a document that we discussed in class to flesh out into text. 
+
+-   Data Management Plan - Data Assets and Data Storage/Security
+-   Data Management Plan - Data Preservation/Disposition and Roles/Responsibilities of Data Stewardship
+-   Project Ethics Protocol - Research Methods and Participants (inc. Recruitment Email)
+-   Project Ethics Protocol - Informed Consent and Confidentiality (inc. Consent Form)
+-   Project Ethics Protocol - Collection/Retention of Information, Risks, Benefits
+
+Templates for these documents will be available in our Shared Google Drive.
 
 ## Code Reports
 
