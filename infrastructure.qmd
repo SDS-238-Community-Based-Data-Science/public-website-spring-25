@@ -36,7 +36,7 @@ Be sure to create a **classic** token. Do not attempt to create a beta version t
 
 8. Copy the following URL:
 
-`https://github.com/SDS-238-Community-Based-Data-Science/Solidago/tree/main`
+`https://github.com/SDS-238-Community-Based-Data-Science/Solidago`
 
 9. Create a project in RStudio from this GitHub repo by following the instructions starting at 26 seconds of this video:
 
