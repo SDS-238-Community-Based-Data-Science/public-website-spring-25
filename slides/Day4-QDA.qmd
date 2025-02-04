@@ -1,0 +1,127 @@
+---
+title: "Day Four: Interviewing and Qualitative Data Analysis"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+## Agenda
+
+1. Logistics and Upcoming Assignments
+2. QDA Practice
+3. Interviewing 
+4. Ethics Protocols for Human Subjects Research
+
+---
+
+## Logistics: Prep for git and GitHub Lab
+
+Please fill out survey [here] (https://docs.google.com/forms/d/12ufJpeLIIctIaJr0J2U0y3kCSHBwFQqnbZmJpNdm9jI/preview)
+
+---
+
+## Logistics: Proposal Component 1
+
+-   Two parts:
+    -   CITI Human Subjects Research training (takes 2-3 hours)
+    -   Part of either Data Management Plan or Ethics Protocol
+-   Templates and link to self-evaluation in Google Drive  
+-   Encouraged to use the Slack to ask questions!  
+
+---
+
+
+## Logistics: Create Taguette Account
+
+1. Create a [Taguette](https://app.taguette.org/register) account
+2. Add your Taguette username [here](https://docs.google.com/spreadsheets/d/1rG8awBU5hVBGuIYSXEK1CFCayHmSJ5v17GsV_ZYAVJ8/edit?gid=1471412302#gid=1471412302)
+
+---
+
+## Qualitative Data Analysis Review
+
+1. When and why do we use qualitative data analysis?
+2. What is the difference between inductive and deductive coding?
+3. What are some things we should keep in mind when we are coding?
+
+---
+
+## Group Code Activity Set-up
+
+- Review [this code book](https://docs.google.com/spreadsheets/d/1TZID6bgx78oOXgmIo0OEJclb_FB-a44m5VKsgw-1FAY/edit?usp=sharing) with your teammates
+- Log-in to Taguette
+- Click on the project called "In-Class Tagging Exercise"
+- In the left side-bar, open the document for your group
+
+---
+
+## Group Code Activity
+
+1. Read the proposal once individually
+2. Start by adding structural codes to the document with your group 
+  a. Highlight sentences, not words and not paragraphs
+3. Add descriptive codes to the document with your group
+  a. Highlight phrases that capture the *spirit* of the tag, not the specific word
+4. Add one in vivo code that captures another key topic that you believe this proposal addresses
+  a. Remember in vivo codes use the language of author
+
+---
+
+## Qualitative Interviews
+
+- Involve open-ended questions seeking in-depth explanations and articulations
+- Are often *semi-structured*
+  - Enables researchers to follow-up, asking the hows and the whys
+  - Allows the interviewee the flexibility to communicate from their perspective
+  
+---
+
+# Five Why's Practice
+
+---
+
+## Preparing Questions
+
+-   Ask questions that are relevant to the purpose of the interview
+-   Ask questions that demonstrate your preparedness for the interview*
+-   Ask questions that encourage elaboration and description
+-   Ask questions that make sense to the interviewee
+-   Ask questions that help build trust with the interviewee
+
+---
+
+## Write 2-3 interview questions for an assigned topic in your groups
+
+-   Solidago general history, values, and context of work
+-   Global justice history and context of work
+-   Legacy project context
+-   Global justice themes to be analyzed
+-   Project stakeholders and audience
+
+> Interview questions document [here](https://docs.google.com/document/d/1h1iNAZP3oqfW2H2w9MPa3yjKeS94sl_-hLeT1GC4LOY/edit?usp=sharing)
+---
+
+## Ethics Protocols
+
+- Informed Consent
+- Confidentiality
+- Risks/Benefits
+
+> Notes document [here](https://docs.google.com/document/d/1LV2cVeZEHbYtzUGdy_N3Ri7z0GMF7qI1BOBt3O1Ahdg/edit?usp=sharing)
+
+
+

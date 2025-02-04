@@ -88,7 +88,7 @@
     "href": "schedule.html#february-05-2025",
     "title": "Schedule",
     "section": "February 05, 2025",
-    "text": "February 05, 2025\n\nIntroduction to Interviewing and Qualitative Data Analysis\n\nDue TodayFurther Resources\n\n\n Grad Coach (2022). Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples). (Visited on Jan. 24, 2025). Read in Perusall\n Infrastrucutre Set-up Due (3)\n Get started on Proposal Component 1 (4)"
+    "text": "February 05, 2025\n\nIntroduction to Interviewing and Qualitative Data Analysis\n\nDue TodayFurther Resources\n\n\n Grad Coach (2022). Qualitative Coding Tutorial: How To Code Qualitative Data For Analysis (4 Steps + Examples). (Visited on Jan. 24, 2025). Read in Perusall\n Infrastrucutre Set-up Due (3)\n Get started on Proposal Component 1 (4)\n\n\n Course slides are here"
   },
   {
     "objectID": "schedule.html#february-10-2025",
@@ -663,5 +663,82 @@
     "title": "Assignments",
     "section": "Proposal Component 1",
     "text": "Proposal Component 1\nThe proposal component 1 assignment is about getting the documents/policies together that will guide how we complete this project. There are two components to this assignment.\n\nYou should complete CITI Training for Human Subjects Research. You can access this training by following the instructions at this link. This should take 2-3 hours. Once you are done, you will receive a certificate in the form of a PDF. Please add that certificate to your Google Drive.\nEach project group will be assigned one section of a document that we discussed in class to flesh out into text.\n\n\nData Management Plan - Data Assets and Data Storage/Security\nData Management Plan - Data Preservation/Disposition and Roles/Responsibilities of Data Stewardship\nProject Ethics Protocol - Research Methods and Participants (inc. Recruitment Email)\nProject Ethics Protocol - Informed Consent and Confidentiality (inc. Consent Form)\nProject Ethics Protocol - Collection/Retention of Information, Risks, Benefits\n\nTemplates for these documents will be available in our Shared Google Drive."
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#agenda",
+    "href": "slides/Day4-QDA.html#agenda",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Agenda",
+    "text": "Agenda\n\nLogistics and Upcoming Assignments\nQDA Practice\nInterviewing\nEthics Protocols for Human Subjects Research"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#logistics-prep-for-git-and-github-lab",
+    "href": "slides/Day4-QDA.html#logistics-prep-for-git-and-github-lab",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Logistics: Prep for git and GitHub Lab",
+    "text": "Logistics: Prep for git and GitHub Lab\nPlease fill out survey [here] (https://docs.google.com/forms/d/12ufJpeLIIctIaJr0J2U0y3kCSHBwFQqnbZmJpNdm9jI/preview)"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#logistics-proposal-component-1",
+    "href": "slides/Day4-QDA.html#logistics-proposal-component-1",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Logistics: Proposal Component 1",
+    "text": "Logistics: Proposal Component 1\n\nTwo parts:\n\nCITI Human Subjects Research training (takes 2-3 hours)\nPart of either Data Management Plan or Ethics Protocol\n\nTemplates and link to self-evaluation in Google Drive\n\nEncouraged to use the Slack to ask questions!"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#logistics-create-taguette-account",
+    "href": "slides/Day4-QDA.html#logistics-create-taguette-account",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Logistics: Create Taguette Account",
+    "text": "Logistics: Create Taguette Account\n\nCreate a Taguette account\nAdd your Taguette username here"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#qualitative-data-analysis-review",
+    "href": "slides/Day4-QDA.html#qualitative-data-analysis-review",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Qualitative Data Analysis Review",
+    "text": "Qualitative Data Analysis Review\n\nWhen and why do we use qualitative data analysis?\nWhat is the difference between inductive and deductive coding?\nWhat are some things we should keep in mind when we are coding?"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#group-code-activity-set-up",
+    "href": "slides/Day4-QDA.html#group-code-activity-set-up",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Group Code Activity Set-up",
+    "text": "Group Code Activity Set-up\n\nReview this code book with your teammates\nLog-in to Taguette\nClick on the project called “In-Class Tagging Exercise”\nIn the left side-bar, open the document for your group"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#group-code-activity",
+    "href": "slides/Day4-QDA.html#group-code-activity",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Group Code Activity",
+    "text": "Group Code Activity\n\nRead the proposal once individually\nStart by adding structural codes to the document with your group\n\n\nHighlight sentences, not words and not paragraphs\n\n\nAdd descriptive codes to the document with your group\n\n\nHighlight phrases that capture the spirit of the tag, not the specific word\n\n\nAdd one in vivo code that captures another key topic that you believe this proposal addresses\n\n\nRemember in vivo codes use the language of author"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#qualitative-interviews",
+    "href": "slides/Day4-QDA.html#qualitative-interviews",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Qualitative Interviews",
+    "text": "Qualitative Interviews\n\nInvolve open-ended questions seeking in-depth explanations and articulations\nAre often semi-structured\n\nEnables researchers to follow-up, asking the hows and the whys\nAllows the interviewee the flexibility to communicate from their perspective"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#preparing-questions",
+    "href": "slides/Day4-QDA.html#preparing-questions",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Preparing Questions",
+    "text": "Preparing Questions\n\nAsk questions that are relevant to the purpose of the interview\nAsk questions that demonstrate your preparedness for the interview*\nAsk questions that encourage elaboration and description\nAsk questions that make sense to the interviewee\nAsk questions that help build trust with the interviewee"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#write-2-3-interview-questions-for-an-assigned-topic-in-your-groups",
+    "href": "slides/Day4-QDA.html#write-2-3-interview-questions-for-an-assigned-topic-in-your-groups",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Write 2-3 interview questions for an assigned topic in your groups",
+    "text": "Write 2-3 interview questions for an assigned topic in your groups\n\nSolidago general history, values, and context of work\nGlobal justice history and context of work\nLegacy project context\nGlobal justice themes to be analyzed\nProject stakeholders and audience\n\n\nInterview questions document here"
+  },
+  {
+    "objectID": "slides/Day4-QDA.html#ethics-protocols",
+    "href": "slides/Day4-QDA.html#ethics-protocols",
+    "title": "Day Four: Interviewing and Qualitative Data Analysis",
+    "section": "Ethics Protocols",
+    "text": "Ethics Protocols\n\nInformed Consent\nConfidentiality\nRisks/Benefits\n\n\nNotes document here"
   }
 ]
