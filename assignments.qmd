@@ -23,7 +23,7 @@ The proposal component 1 assignment is about getting the documents/policies toge
 -   Project Ethics Protocol - Informed Consent and Confidentiality (inc. Consent Form)
 -   Project Ethics Protocol - Collection/Retention of Information, Risks, Benefits
 
-Templates for these documents will be available in our Shared Google Drive.
+Templates for these documents will be available in our [Shared Google Drive](https://drive.google.com/drive/folders/1iIbmV0Nd67fMtKELhwJrj65qKtRQwP8B?usp=drive_link).
 
 ## Code Reports
 
