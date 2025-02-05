@@ -61,7 +61,7 @@ codes <-
   select(topic_abbr, code) %>%
   separate_rows(code, sep = ";")
 
-perusall_link <- "https://app.perusall.com/courses/sds238-01-community-based-data-science/_/dashboard/assignments/KH8keodHZHMwfDXcM"
+perusall_link <- "https://app.perusall.com/courses/sds238-01-community-based-data-science/"
 ```
 
 ```{r}
