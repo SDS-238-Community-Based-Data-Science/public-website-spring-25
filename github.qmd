@@ -5,10 +5,10 @@ format: html
 editor: visual
 ---
 
-
 ::: callout-tip
 ## Quick Note
-Students enrolled in this course have very different levels of technical experience, including Git experience. Today, I've deliberately put you in groups with varying levels of expertise so those with more experience can help those that are new to this infrastructure. To make Git more accessible to our non-SDS or CS majors, I've also focused this workshop on the built-in graphical user interface features for Git in R.  While I'd like everyone to work through the workshop as written, if you are more comfortable working with GitHub Desktop or in the command line, you are welcome to do so for this course. 
+
+Students enrolled in this course have very different levels of technical experience, including Git experience. Today, I've deliberately put you in groups with varying levels of expertise so those with more experience can help those that are new to this infrastructure. To make Git more accessible to our non-SDS or CS majors, I've also focused this workshop on the built-in graphical user interface features for Git in R. While I'd like everyone to work through the workshop as written, if you are more comfortable working with GitHub Desktop or in the command line, you are welcome to do so for this course.
 :::
 
 ## Introduction
@@ -120,7 +120,7 @@ Typically I recommend the long and elegant version for group work as it is desig
 ###### Question
 
 ::: question
-Navigate to [GitHub Classroom](https://classroom.github.com/a/46iEHfUQ) to accept the assignment. For this assignment, you will work in teams of 3 at most. Enter the team name assigned to you in the spreadsheet I posted in Slack this morning. Everyone in the group should enter the same team name. 
+Navigate to [GitHub Classroom](https://classroom.github.com/a/F262lf6F) to accept the assignment. For this assignment, you will work in teams of 3 at most. Enter the team name assigned to you in the spreadsheet I posted in Slack this morning. Everyone in the group should enter the same team name.
 :::
 
 ####### 
@@ -322,7 +322,7 @@ Select the issue associated with this pull request, and then click "Confirm Merg
 ####### 
 
 ::: callout-important
-## Before moving on to the next section\...
+## Before moving on to the next section...
 
 You've now deleted branches at GitHub.com that your local machines don't know have been deleted. By default, RStudio does not delete branches locally that have been deleted remotely, even after pulling changes. We can fix this by entering the following line into our **Terminals** in RStudio:
 
@@ -396,15 +396,17 @@ One of your partners should try to pull changes by clicking the blue downward ar
 
 To fix this one your partners should open the file with the conflict. In this case it will be github-practice.Rmd. Scroll to the section of the file with the conflict. It will now look something like this:
 
-        <<<<<<< HEAD
+```         
+    <<<<<<< HEAD
 
-        ncol(pioneer_valley_2013)
+    ncol(pioneer_valley_2013)
 
-        =======
+    =======
 
-        colnames(pioneer_valley_2013)
+    colnames(pioneer_valley_2013)
 
-        >>>>>>> ee175895783b64e0e1f696d9456be4c4c7c3f3bf
+    >>>>>>> ee175895783b64e0e1f696d9456be4c4c7c3f3bf
+```
 
 The code following HEAD represents the recent changes you made on your local machine, and the code right before the long string of characters represents the changes that were made in an earlier commit (the long string of characters is the commit hash). Decide what that line should look like and delete all other content. This means you *must* delete "\<\<\<\<\<\<\< HEAD", "=======", and "\>\>\>\>\>\>\> \<long-hash\>", and you likely should delete at least one other line. Save the file, stage the file by clicking the checkbox next to the file in the Git page, and then commit your changes, and push them to GitHub.com.
 :::
