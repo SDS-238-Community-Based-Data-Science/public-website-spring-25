@@ -25,6 +25,24 @@ The proposal component 1 assignment is about getting the documents/policies toge
 
 Templates for these documents will be available in our [Shared Google Drive](https://drive.google.com/drive/folders/1iIbmV0Nd67fMtKELhwJrj65qKtRQwP8B?usp=drive_link).
 
+## Proposal Component 2
+
+Following an initial interview with the sponsor, each group will be assigned *two* of the following sections to elaborate (in 300-400 words each):
+
+- Problem Definition
+- Aims
+- Methods
+- Value
+- Design Approach
+
+Note that to complete the section you may need to conduct external research or refer back to the interview that was conducted in class. A transcript of the interview will be made available to you immediately after the interview is conducted. 
+
+You may refer to the Scope of Work, as well as the slide deck developed on the second day of class, as you prepare your sections of the proposal. The slide deck includes a number of guiding questions in Notes about what should be included in each section. 
+
+To submit this assignment, you should write both sections you have been assigned in a Google Document, shared among your team members. Be sure that each team member has a shortcut to the Google Document in their assignment folder. 
+
+## Proposal Component 3
+
 ## Code Reports
 
 In brief, you will qualitatively code 4 grant dockets and briefly summarize your findings in each code report assignment. More soon...
