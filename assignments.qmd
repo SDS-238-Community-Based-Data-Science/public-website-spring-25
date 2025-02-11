@@ -27,7 +27,9 @@ Templates for these documents will be available in our [Shared Google Drive](htt
 
 ## Proposal Component 2
 
-Following an initial interview with the sponsor, each group will be assigned *two* of the following sections to elaborate (in 300-400 words each):
+For the first part of proposal component 2, your team should revise proposal component 1 based on my feedback. 
+
+For the second part of proposal component 2, following an initial interview with the sponsor, each group will be assigned *two* of the following sections to elaborate (in 300-400 words each):
 
 - Problem Definition
 - Aims
