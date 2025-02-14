@@ -1,0 +1,124 @@
+---
+title: "Day Seven: Stakeholder Analysis and Design Paradigms"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+## Agenda
+
+1. Logistics and Upcoming Assignments
+2. Stakeholder Analysis
+3. Design Paradigms
+4. Proposal Component 3
+
+---
+
+## Logistics: Confidentiality Agreement
+
+---
+
+## Logistics: Proposal Component 2
+
+-   Two parts:
+    -   Listen to my feedback in Slack, and revise Proposal Component 1
+    -   Write two sections of proposal (assignments are in the student directory)
+-   Templates and link to self-evaluation in Google Drive  
+-   Encouraged to use the Slack to ask questions!  
+
+---
+
+## Stakeholder Analysis Review
+
+1. What is stakeholder analysis?
+2. Why should we do stakeholder analysis?
+
+---
+
+## Working with Our Sponsor
+
+1. Identifying a need
+2. Matching skills to need
+3. Imagining an end product
+4. Outlining timeline
+5. Identifying necessary resources
+6. Delimiting scope
+7. Establishing communication channels
+
+---
+
+# Stakeholder Analysis Activity
+
+---
+
+## User-centered Design
+
+![](https://www.seobility.net/en/wiki/images/b/b7/User-Centered-Design.png)
+ > User-Centered-Design - Author: Seobility - License: CC BY-SA 4.0
+ 
+---
+
+## Universal Design vs. Disability Justice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cd1n0OT2UFU?si=kjlBNSQFvn-0d7q1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Partcipatory Design, or co-design
+
+- Generally involves including users in the design process
+- Users may be involved in ideation, sketching, building, and/or evaluating
+- Can diversify design teams and make outputs more relevant and accessible to user
+- Need to balance inclusion with the ways participation may be taxing on certain communities
+
+---
+
+## Values-Sensitive Design
+
+- Every design manifests a certain set of values, whether explicit or implicit
+- Design can be targeted towards values that we hold as humans (e.g. equitable access, fair representation, efficiency)
+- VSD involves articulating values at the outset and tailoring practices and products in those ways
+
+---
+
+## Also...
+
+- Reflective Design
+- Speculative Design
+- Critical Making
+- Devious Design
+
+
+---
+
+# What are five values that we hold in relation to our design process?
+
+
+---
+
+# Standpoint activity (if time)
+
+
+
+
+
+
+
+
+
+
+

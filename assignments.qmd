@@ -45,6 +45,14 @@ To submit this assignment, you should write both sections you have been assigned
 
 ## Proposal Component 3
 
+Proposal Component 3 has three parts:
+
+1. Your team will be assigned one stakeholder that we outline in class. In 150-300 words, you should profile that stakeholder, indicating their interest in the project, their influence over the project, and ways that we will adapt our design approach in consideration of this stakeholder's stakes.
+2. In 150-300 words you should profile your team, emphasizing your collective expertise, your standpoints, and the limits of your knowledge in relation to the project. Please note that you do not need to necessarily disclose aspects of your personal identity, but you may note the ways in which your team is diverse.
+3. Your team will be assigned one design value that we outline in class. In 150-300 words, your team should define that value and outline how our design approach may shift to realize that value. Be sure to provide specific examples of how that value might impact the research activities or final outputs. 
+
+To submit this assignment, you should write both sections in a Google Document, shared among your team members. Be sure that each team member has a shortcut to the Google Document in their assignment folder. 
+
 ## Code Reports
 
 In brief, you will qualitatively code 4 grant dockets and briefly summarize your findings in each code report assignment. More soon...
