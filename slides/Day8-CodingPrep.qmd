@@ -1,0 +1,54 @@
+---
+title: "Day Eight: Preparation for Coding"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+## Agenda
+
+1. Work on Proposal Component 3 in groups (20 minutes)
+2. Overview of Global Justice dockets
+3. Run-through of coding procedure
+4. Review of codes
+
+
+---
+
+# Work on Proposal Component 3 in groups
+
+---
+
+## Overview of Global Justice dockets
+
+1. Front matter
+2. Grant applications
+3. Solidago summaries
+
+---
+
+## Run-through of coding procedure
+
+Full documentation linked in Assignment description
+
+---
+
+# Review of Codes
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHHw9m1mtq8?si=ZQY5P0rQwj2xD3Dp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
