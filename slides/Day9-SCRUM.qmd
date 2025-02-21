@@ -1,0 +1,96 @@
+---
+title: "Day Nine: SCRUM, Brainstorming, and Tasking"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+## Agenda
+
+1. Overview of SCRUM
+2. Mini Retrospective
+3. Review of SCRUM Process for this Course
+4. Brainstorming for Sprints
+5. Questions on Coding
+
+
+---
+
+## SCRUM Review
+
+1. What is SCRUM?
+2. Why might a team choose to work according to SCRUM principles?
+3. What are some of the rituals of SCRUM?
+
+---
+
+## Mini-Retrospective
+
+Three worksheets:
+1. Mad, Sad, Glad
+2. Agile Retrospective
+3. Values Retrospective
+
+---
+
+## SCRUM for this course
+
+There will be three sprints:
+  - Each sprint will be two weeks long
+  - First Monday: Sprint planning meeting
+  - Following Wednesday/Monday: Group work 
+  - Final Wednesday: Presentation of deliverables and sprint retrospective
+- The SCRUM master role will rotate
+  - Responsible for leading a SCRUM check-in twice a week (once in class; once in Slack)
+
+---
+
+## Planning meeting
+
+- We will determine which groups are producing which deliverables in that sprint.
+- We will populate and select tasks from the project backlog in GitHub for each team.
+
+---
+
+## Presentation of deliverables and sprint retrospective
+
+- Each team will present at most two slides that summarize what they accomplished in the sprint and any issues they encountered.
+- Each team will complete the retrospective worksheets and meet with me one-on-one to reflect on the previous sprint.
+
+---
+
+## SCRUM check-ins
+
+The SCRUM master will ask each group member the following three questions:
+
+1. What you have completed since the last meeting?
+2. What will you complete by the next meeting?
+3. What is blocking your progress?
+
+This will happen *four* times in each sprint - twice in class and twice in Slack.
+
+> Your group can decide which day of the week to check-in in Slack. Please be sure to 
+include me in the Slack check-in. All students in the group should reply the same day.
+
+---
+
+# Project Brainstorming
+
+---
+
+# Questions on Coding Practice
+

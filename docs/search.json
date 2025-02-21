@@ -116,14 +116,14 @@
     "href": "schedule.html#february-19-2025",
     "title": "Schedule",
     "section": "February 19, 2025",
-    "text": "February 19, 2025\n\nPrep for Coding Procedure\n\nDue TodayFurther Resources\n\n\n Chapter 2 , Costanza-Chock, Sasha (2020). Design Justice: Community-Led Practices to Build the Worlds We Need. Erscheinungsort nicht ermittelbar: The MIT Press. ISBN: 978-0-262-04345-8. Read in Perusall\n Proposal Component 2 Due (4)\n Don’t forget to complete the self-assessment form!\n Continue working on Proposal Component 3\n Get started on Code Report"
+    "text": "February 19, 2025\n\nPrep for Coding Procedure\n\nDue TodayFurther Resources\n\n\n Chapter 2 , Costanza-Chock, Sasha (2020). Design Justice: Community-Led Practices to Build the Worlds We Need. Erscheinungsort nicht ermittelbar: The MIT Press. ISBN: 978-0-262-04345-8. Read in Perusall\n Proposal Component 2 Due (4)\n Don’t forget to complete the self-assessment form!\n Continue working on Proposal Component 3\n Get started on Code Report\n\n\n Course slides are here"
   },
   {
     "objectID": "schedule.html#february-24-2025",
     "href": "schedule.html#february-24-2025",
     "title": "Schedule",
     "section": "February 24, 2025",
-    "text": "February 24, 2025\n\nBrainstorming and Tasking\n\nDue TodayFurther Resources\n\n\n Schwaber, Ken and Jeff Sutherland (2020). The SCRUM Guide - The Definitive Guide to Scrum: The Rules of the Game. Read in Perusall\n Proposal Component 3 Due (4)\n Don’t forget to complete the self-assessment form!\n Continue working on Code Report"
+    "text": "February 24, 2025\n\nBrainstorming and Tasking\n\nDue TodayFurther Resources\n\n\n Schwaber, Ken and Jeff Sutherland (2020). The SCRUM Guide - The Definitive Guide to Scrum: The Rules of the Game. Read in Perusall\n Proposal Component 3 Due (4)\n Don’t forget to complete the self-assessment form!\n Continue working on Code Report\n\n\n Course slides are here"
   },
   {
     "objectID": "schedule.html#february-26-2025",
@@ -845,5 +845,54 @@
     "title": "Day Eight: Preparation for Coding",
     "section": "Run-through of coding procedure",
     "text": "Run-through of coding procedure\nFull documentation linked in Assignment description"
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html#agenda",
+    "href": "slides/Day9-SCRUM.html#agenda",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "Agenda",
+    "text": "Agenda\n\nOverview of SCRUM\nMini Retrospective\nReview of SCRUM Process for this Course\nBrainstorming for Sprints\nQuestions on Coding"
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html#scrum-review",
+    "href": "slides/Day9-SCRUM.html#scrum-review",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "SCRUM Review",
+    "text": "SCRUM Review\n\nWhat is SCRUM?\nWhy might a team choose to work according to SCRUM principles?\nWhat are some of the rituals of SCRUM?"
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html#mini-retrospective",
+    "href": "slides/Day9-SCRUM.html#mini-retrospective",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "Mini-Retrospective",
+    "text": "Mini-Retrospective\nThree worksheets: 1. Mad, Sad, Glad 2. Agile Retrospective 3. Values Retrospective"
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html#scrum-for-this-course",
+    "href": "slides/Day9-SCRUM.html#scrum-for-this-course",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "SCRUM for this course",
+    "text": "SCRUM for this course\nThere will be three sprints: - Each sprint will be two weeks long - First Monday: Sprint planning meeting - Following Wednesday/Monday: Group work - Final Wednesday: Presentation of deliverables and sprint retrospective - The SCRUM master role will rotate - Responsible for leading a SCRUM check-in twice a week (once in class; once in Slack)"
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html#planning-meeting",
+    "href": "slides/Day9-SCRUM.html#planning-meeting",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "Planning meeting",
+    "text": "Planning meeting\n\nWe will determine which groups are producing which deliverables in that sprint.\nWe will populate and select tasks from the project backlog in GitHub for each team."
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html#presentation-of-deliverables-and-sprint-retrospective",
+    "href": "slides/Day9-SCRUM.html#presentation-of-deliverables-and-sprint-retrospective",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "Presentation of deliverables and sprint retrospective",
+    "text": "Presentation of deliverables and sprint retrospective\n\nEach team will present at most two slides that summarize what they accomplished in the sprint and any issues they encountered.\nEach team will complete the retrospective worksheets and meet with me one-on-one to reflect on the previous sprint."
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html#scrum-check-ins",
+    "href": "slides/Day9-SCRUM.html#scrum-check-ins",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "SCRUM check-ins",
+    "text": "SCRUM check-ins\nThe SCRUM master will ask each group member the following three questions:\n\nWhat you have completed since the last meeting?\nWhat will you complete by the next meeting?\nWhat is blocking your progress?\n\nThis will happen four times in each sprint - twice in class and twice in Slack.\n\nYour group can decide which day of the week to check-in in Slack. Please be sure to include me in the Slack check-in. All students in the group should reply the same day."
   }
 ]
