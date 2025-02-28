@@ -64,6 +64,10 @@ As a [user], I want to be able to [what do this user want to do] in order to sho
 
 ---
 
+# Demonstration of Issues and GitHub Kanban
+
+---
+
 ## Five Teams
 
 > Please note that **all teams** will engage in both quantitative and qualitative aspects of this project in later sprints. This sprint is setting up the infrastructure that we will all use in later sprints to make the work possible.
@@ -81,6 +85,7 @@ As a [user], I want to be able to [what do this user want to do] in order to sho
 1. Brainstorm at least 3 tasks that need to be completed in your team in this sprint.
 2. Create user stories and acceptance criteria for each of these tasks in the Issue queue of our GitHub repo.
 3. Assign each task to members of your team.
-4. Select one individual to serve as the SCRUM check-in lead, and select two out-of-class days for a check-in on Slack.
-5. Get started on the work!
+4. Assign each task to the Solidago Global Legacy Project, set the status to "to-do," and select Sprint 1.
+5. Select one individual to serve as the SCRUM check-in lead, and select two out-of-class days for a check-in on Slack.
+6. Get started on the work!
 
