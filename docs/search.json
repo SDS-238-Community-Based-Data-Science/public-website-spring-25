@@ -894,5 +894,47 @@
     "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
     "section": "SCRUM check-ins",
     "text": "SCRUM check-ins\nThe SCRUM master will ask each group member the following three questions:\n\nWhat you have completed since the last meeting?\nWhat will you complete by the next meeting?\nWhat is blocking your progress?\n\nThis will happen four times in each sprint - twice in class and twice in Slack.\n\nYour group can decide which day of the week to check-in in Slack. Please be sure to include me in the Slack check-in. All students in the group should reply the same day."
+  },
+  {
+    "objectID": "slides/Day11-SprintPlanning.html#agenda",
+    "href": "slides/Day11-SprintPlanning.html#agenda",
+    "title": "Day Eleven: Sprint 1 Planning Meeting",
+    "section": "Agenda",
+    "text": "Agenda\n\nOverview of Writing User Stories\nBrainstorm tasks with Group\nCreate User Stories in Backlog"
+  },
+  {
+    "objectID": "slides/Day11-SprintPlanning.html#writing-user-stories",
+    "href": "slides/Day11-SprintPlanning.html#writing-user-stories",
+    "title": "Day Eleven: Sprint 1 Planning Meeting",
+    "section": "Writing User Stories",
+    "text": "Writing User Stories\n\nA small unit of work in a SCRUM workflow\nA means of documenting what a user should be able to do upon completion of a task\nUsually just a few sentences long (formal requirements come later)\nMust have:\n\nA user\nA description of what a user needs to be able to do and why\nAcceptance criteria (what conditions need to be met for this task to be considered complete?)"
+  },
+  {
+    "objectID": "slides/Day11-SprintPlanning.html#sample-user-story-creating-the-coded-grants-spreadsheet",
+    "href": "slides/Day11-SprintPlanning.html#sample-user-story-creating-the-coded-grants-spreadsheet",
+    "title": "Day Eleven: Sprint 1 Planning Meeting",
+    "section": "Sample User Story: Creating the Coded Grants Spreadsheet",
+    "text": "Sample User Story: Creating the Coded Grants Spreadsheet\nAs an instructor of SDS 238, I need students to be able to store information that they extract from Solidago’s grant applications into a spreadsheet. Solidago sent me a taxonomy of data points that they would like to have coded for each grant. I need this spreadsheet in order to help facilitate student coding of Solidago grants, and to make it possible to eventually import and analyze data about grants in R.\nAcceptance Criteria\n\nAll students can access a spreadsheet for storing information extracted from grants.\nThe spreadsheet adheres to the taxonomy sent by Solidago.\nThe spreadsheet has a separate row for each grant and columns that record information about that grant.\nThe spreadsheet designates which grants each student is assigned to.\nThe spreadsheet is downloadable as a CSV file."
+  },
+  {
+    "objectID": "slides/Day11-SprintPlanning.html#practice-writing-a-user-story",
+    "href": "slides/Day11-SprintPlanning.html#practice-writing-a-user-story",
+    "title": "Day Eleven: Sprint 1 Planning Meeting",
+    "section": "Practice Writing a User Story",
+    "text": "Practice Writing a User Story\nWrite a user story for one task that you will need to perform in order to arrive in our next class.\nAs a [user], I want to be able to [what do this user want to do] in order to show up to our next class. [why does this user want to do this?]\nAcceptance criteria [list at least three bullet points indicating when this task is complete]"
+  },
+  {
+    "objectID": "slides/Day11-SprintPlanning.html#five-teams",
+    "href": "slides/Day11-SprintPlanning.html#five-teams",
+    "title": "Day Eleven: Sprint 1 Planning Meeting",
+    "section": "Five Teams",
+    "text": "Five Teams\n\nPlease note that all teams will engage in both quantitative and qualitative aspects of this project in later sprints. This sprint is setting up the infrastructure that we will all use in later sprints to make the work possible.\n\n\nInterview Infrastructure Team (Husna, Ixchel, Maria, and Sam)\nDocket QDA Infrastructure Team (Elaine, Hayden, Nicole, and Ellie)\nData Quality Team (Kira, Danyi, and Radiah)\nData Import and Cleaning Team (Vanessa, Nicole, Itzel, and Reagn)\nStyle Guide Team (Ananda, Juliana, Abi, and Alice)"
+  },
+  {
+    "objectID": "slides/Day11-SprintPlanning.html#planning-meeting",
+    "href": "slides/Day11-SprintPlanning.html#planning-meeting",
+    "title": "Day Eleven: Sprint 1 Planning Meeting",
+    "section": "Planning meeting",
+    "text": "Planning meeting\n\nBrainstorm at least 3 tasks that need to be completed in your team in this sprint.\nCreate user stories and acceptance criteria for each of these tasks in the Issue queue of our GitHub repo.\nAssign each task to members of your team.\nSelect one individual to serve as the SCRUM check-in lead, and select two out-of-class days for a check-in on Slack.\nGet started on the work!"
   }
 ]

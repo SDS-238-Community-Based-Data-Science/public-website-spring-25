@@ -1,0 +1,86 @@
+---
+title: "Day Eleven: Sprint 1 Planning Meeting"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+
+## Agenda
+
+1. Overview of Writing User Stories
+2. Brainstorm tasks with Group
+3. Create User Stories in Backlog
+
+---
+
+## Writing User Stories
+
+-   A small unit of work in a SCRUM workflow
+-   A means of documenting what a user should be able to do upon completion of a task
+-   Usually just a few sentences long (formal requirements come later)
+-   Must have:
+    -   A user
+    -   A description of what a user needs to be able to do and why 
+    -   Acceptance criteria (what conditions need to be met for this task to be considered complete?)
+
+---
+
+## Sample User Story: Creating the Coded Grants Spreadsheet
+
+As an instructor of SDS 238, I need students to be able to store information that they extract from Solidago's grant applications into a spreadsheet. Solidago sent me a taxonomy of data points that they would like to have coded for each grant. I need this spreadsheet in order to help facilitate student coding of Solidago grants, and to make it possible to eventually import and analyze data about grants in R.
+
+### Acceptance Criteria
+
+- All students can access a spreadsheet for storing information extracted from grants.
+- The spreadsheet adheres to the taxonomy sent by Solidago.
+- The spreadsheet has a separate row for each grant and columns that record information about that grant.
+- The spreadsheet designates which grants each student is assigned to. 
+- The spreadsheet is downloadable as a CSV file.
+
+---
+
+## Practice Writing a User Story
+
+Write a user story for one task that you will need to perform in order to arrive in our next class. 
+
+As a [user], I want to be able to [what do this user want to do] in order to show up to our next class. [why does this user want to do this?]
+
+**Acceptance criteria**
+[list at least three bullet points indicating when this task is complete]
+
+---
+
+## Five Teams
+
+> Please note that **all teams** will engage in both quantitative and qualitative aspects of this project in later sprints. This sprint is setting up the infrastructure that we will all use in later sprints to make the work possible.
+
+- Interview Infrastructure Team (Husna, Ixchel, Maria, and Sam)
+- Docket QDA Infrastructure Team (Elaine, Hayden, Nicole, and Ellie)
+- Data Quality Team (Kira, Danyi, and Radiah)
+- Data Import and Cleaning Team (Vanessa, Nicole, Itzel, and Reagn)
+- Style Guide Team (Ananda, Juliana, Abi, and Alice)
+
+---
+
+## Planning meeting
+
+1. Brainstorm at least 3 tasks that need to be completed in your team in this sprint.
+2. Create user stories and acceptance criteria for each of these tasks in the Issue queue of our GitHub repo.
+3. Assign each task to members of your team.
+4. Select one individual to serve as the SCRUM check-in lead, and select two out-of-class days for a check-in on Slack.
+5. Get started on the work!
+
