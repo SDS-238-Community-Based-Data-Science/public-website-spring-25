@@ -137,7 +137,7 @@
     "href": "schedule.html#march-03-2025",
     "title": "Schedule",
     "section": "March 03, 2025",
-    "text": "March 03, 2025\n\nPlanning for Sprint 1\n\nDue TodayFurther Resources\n\n\n Three User Stories in Project Backlog Due (4)\n Don’t forget to complete the self-assessment form!\n Code Report Due (4)"
+    "text": "March 03, 2025\n\nPlanning for Sprint 1\n\nDue TodayFurther Resources\n\n\n Three User Stories in Project Backlog Due (4)\n Don’t forget to complete the self-assessment form!\n Code Report Due (4)\n\n\n Course slides are here"
   },
   {
     "objectID": "schedule.html#march-05-2025",
@@ -850,8 +850,8 @@
     "objectID": "slides/Day9-SCRUM.html#agenda",
     "href": "slides/Day9-SCRUM.html#agenda",
     "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
-    "section": "Agenda",
-    "text": "Agenda\n\nOverview of SCRUM\nMini Retrospective\nReview of SCRUM Process for this Course\nBrainstorming for Sprints\nQuestions on Coding"
+    "section": "",
+    "text": "Overview of SCRUM\nMini Retrospective\nReview of SCRUM Process for this Course\nBrainstorming for Sprints\nQuestions on Coding"
   },
   {
     "objectID": "slides/Day9-SCRUM.html#scrum-review",
@@ -936,5 +936,12 @@
     "title": "Day Eleven: Sprint 1 Planning Meeting",
     "section": "Planning meeting",
     "text": "Planning meeting\n\nBrainstorm at least 3 tasks that need to be completed in your team in this sprint.\nCreate user stories and acceptance criteria for each of these tasks in the Issue queue of our GitHub repo.\nAssign each task to members of your team.\nAssign each task to the Solidago Global Legacy Project, set the status to “to-do,” and select Sprint 1.\nSelect one individual to serve as the SCRUM check-in lead, and select two out-of-class days for a check-in on Slack.\nGet started on the work!"
+  },
+  {
+    "objectID": "slides/Day9-SCRUM.html",
+    "href": "slides/Day9-SCRUM.html",
+    "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
+    "section": "",
+    "text": "Overview of SCRUM\nMini Retrospective\nReview of SCRUM Process for this Course\nBrainstorming for Sprints\nQuestions on Coding"
   }
 ]
