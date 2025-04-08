@@ -1,0 +1,135 @@
+---
+title: "Day X: Code Review"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+# Think about a time that you received feedback on an assignment or project. What were some qualitities of that feedback that made it helpful for improving your project?
+
+------------------------------------------------------------------------
+
+## Turn to a neighbor:
+
+1.  Share your feedback experience
+2.  Together, write on three sticky notes three separate qualities of constructive feedback
+3.  Add the sticky notes to the brown paper in the center of the classroom.
+
+------------------------------------------------------------------------
+
+## Agenda
+
+1.  Overview of Code Review
+2.  Code Review Features in GitHub
+3.  Code Review In-Class Practice
+4.  Code Review Workshop
+
+------------------------------------------------------------------------
+
+## What is code review?
+
+-   Peer review of a codebase
+-   Examines the functionality, style, clarity, and relevance of code
+-   Helps identify issues with code and assess adherence to coding standards
+
+------------------------------------------------------------------------
+
+# Why do code review?
+
+------------------------------------------------------------------------
+
+## Orienting to Code Review Features in GitHub
+
+> Code review in GitHub happens before a pull request gets merged into the main branch.
+
+1.  Navigate to a repo's pull requests
+2.  Select the pull request you have been assigned to review
+3.  Navigate to the Commits tab and take a look at the pull request's commit history
+4.  Navigate to the Files Changed tab and take a look at the files changed.
+
+-   Original File on the left, and the revised file on the right.
+-   Additions highlighted in blue and deletions highlighted in red.
+
+5.  Here, you can comment on:
+
+-   individual lines of code
+-   files
+-   the entire set of changes
+
+------------------------------------------------------------------------
+
+## Suggesting Changes Code Review in GitHub
+
+::: columns
+::: {.column width="50%"}
+1.  You may simply leave comments in GitHub on lines or files
+2.  You can also suggest in-line changes that can be quickly committed back to the code.
+:::
+
+::: {.column width="50%"}
+![](img/suggestion.png) ![](img/suggestion-saved.png)
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Today's Code Review
+
+-   Code Style: Is code legible and clear?
+-   Visualization Conventions: Do visualizations follow our class style standards (e.g. titling, color, missing data, etc)?
+-   Visualization Effectiveness: Does the visualization answer the research question at hand?
+
+------------------------------------------------------------------------
+
+
+```{r}
+#| echo: true
+#| eval: false
+my_plot <- solidago_docket_grants |> 
+  mutate(major_unique_funders = as.numeric(major_unique_funders)) |> 
+  ggplot(aes(x = major_unique_funders)) + 
+  geom_histogram(binwidth = 2, fill = "#4f6b4b") + theme_classic() + 
+  labs(title = "Solidago Grants", x = "Number of Major Unique Funders", y = "Number of Grants")
+
+my_plot
+
+```
+
+![](img/solidago_unique_funders.png)
+------------------------------------------------------------------------
+
+# Activity
+
+1. Navigate to our GitHub repo's pull requests
+2. Open the Code Review Practice Pull Request, and click on the Files Changed tab
+3. Scroll to the code chunk assigned to your group
+4. Leave an in-line review to improve this plot
+
+------------------------------------------------------------------------
+
+## Code Review Workshop 
+
+- Each team of 2-3 should review at least two visualizations. Select 2 from the print-outs on your table.
+  1. Complete the code review checklist for each visualization and discuss its relevance and effectiveness
+  2. Leave in-line comments on the visualization at GitHub (you have already been assigned as a reviewer on the appropriate pull request)
+  3. Click the "Review Changes" button, leave a collegial comment, and then "Finish Review"
+  
+------------------------------------------------------------------------
+
+## Reflection
+
+1. What was it like to "read" another person's code?
+2. What considerations should we make to ensure that our feedback on code is constructive and collegial?

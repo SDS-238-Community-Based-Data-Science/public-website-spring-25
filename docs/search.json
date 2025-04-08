@@ -214,7 +214,7 @@
     "href": "schedule.html#april-09-2025",
     "title": "Schedule",
     "section": "April 09, 2025",
-    "text": "April 09, 2025\n\nCode Review\n\nDue TodayFurther Resources"
+    "text": "April 09, 2025\n\nCode Review\n\nDue TodayFurther Resources\n\n\n\n\n\n Course slides are here"
   },
   {
     "objectID": "schedule.html#april-14-2025",
@@ -943,5 +943,75 @@
     "title": "Day Nine: SCRUM, Brainstorming, and Tasking",
     "section": "",
     "text": "Overview of SCRUM\nMini Retrospective\nReview of SCRUM Process for this Course\nBrainstorming for Sprints\nQuestions on Coding"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#agenda",
+    "href": "slides/Day22-CodeReview.html#agenda",
+    "title": "Day X: Code Review",
+    "section": "Agenda",
+    "text": "Agenda\n\nOverview of Code Review\nCode Review Features in GitHub\nCode Review In-Class Practice\nCode Review Workshop"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#what-is-code-review",
+    "href": "slides/Day22-CodeReview.html#what-is-code-review",
+    "title": "Day X: Code Review",
+    "section": "What is code review?",
+    "text": "What is code review?\n\nPeer review of a codebase\nExamines the functionality, style, clarity, and relevance of code\nHelps identify issues with code and assess adherence to coding standards"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#orienting-to-code-review-features-in-github",
+    "href": "slides/Day22-CodeReview.html#orienting-to-code-review-features-in-github",
+    "title": "Day X: Code Review",
+    "section": "Orienting to Code Review Features in GitHub",
+    "text": "Orienting to Code Review Features in GitHub\n\nCode review in GitHub happens before a pull request gets merged into the main branch.\n\n\nNavigate to a repo’s pull requests\nSelect the pull request you have been assigned to review\nNavigate to the Commits tab and take a look at the pull request’s commit history\nNavigate to the Files Changed tab and take a look at the files changed.\n\n\nOriginal File on the left, and the revised file on the right.\nAdditions highlighted in blue and deletions highlighted in red.\n\n\nHere, you can comment on:\n\n\nindividual lines of code\nfiles\nthe entire set of changes"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#suggesting-changes-code-review-in-github",
+    "href": "slides/Day22-CodeReview.html#suggesting-changes-code-review-in-github",
+    "title": "Day X: Code Review",
+    "section": "Suggesting Changes Code Review in GitHub",
+    "text": "Suggesting Changes Code Review in GitHub\n\n\n\nYou may simply leave comments in GitHub on lines or files\nYou can also suggest in-line changes that can be quickly committed back to the code."
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#five-teams",
+    "href": "slides/Day22-CodeReview.html#five-teams",
+    "title": "Day X: Code Review",
+    "section": "Five Teams",
+    "text": "Five Teams"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#planning-meeting",
+    "href": "slides/Day22-CodeReview.html#planning-meeting",
+    "title": "Day X: Code Review",
+    "section": "Planning meeting",
+    "text": "Planning meeting"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#turn-to-a-neighbor",
+    "href": "slides/Day22-CodeReview.html#turn-to-a-neighbor",
+    "title": "Day X: Code Review",
+    "section": "Turn to a neighbor:",
+    "text": "Turn to a neighbor:\n\nShare your feedback experience\nTogether, write on three sticky notes three separate qualities of constructive feedback\nAdd the sticky notes to the brown paper in the center of the classroom."
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#todays-code-review",
+    "href": "slides/Day22-CodeReview.html#todays-code-review",
+    "title": "Day X: Code Review",
+    "section": "Today’s Code Review",
+    "text": "Today’s Code Review\n\nCode Style: Is code legible and clear?\nVisualization Conventions: Do visualizations follow our class style standards (e.g. titling, color, missing data, etc)?\nVisualization Effectiveness: Does the visualization answer the research question at hand?"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#code-review-workshop",
+    "href": "slides/Day22-CodeReview.html#code-review-workshop",
+    "title": "Day X: Code Review",
+    "section": "Code Review Workshop",
+    "text": "Code Review Workshop\n\nEach team of 2-3 should review at least two visualizations. Select 2 from the print-outs on your table.\n\nComplete the code review checklist for each visualization and discuss its relevance and effectiveness\nLeave in-line comments on the visualization at GitHub (you have already been assigned as a reviewer on the appropriate pull request)\nClick the “Review Changes” button, leave a collegial comment, and then “Finish Review”"
+  },
+  {
+    "objectID": "slides/Day22-CodeReview.html#reflection",
+    "href": "slides/Day22-CodeReview.html#reflection",
+    "title": "Day X: Code Review",
+    "section": "Reflection",
+    "text": "Reflection\n\nWhat was it like to “read” another person’s code?\nWhat considerations should we make to ensure that our feedback on code is constructive and collegial?"
   }
 ]
