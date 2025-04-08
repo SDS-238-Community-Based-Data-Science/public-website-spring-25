@@ -18,7 +18,7 @@ execute:
   warnings: false
 ---
 
-# Think about a time that you received feedback on an assignment or project. What were some qualitities of that feedback that made it helpful for improving your project?
+## Think about a time that you received feedback on an assignment or project. What were some qualitities of that feedback that made it helpful for improving your project?
 
 ------------------------------------------------------------------------
 
@@ -94,42 +94,39 @@ execute:
 
 ------------------------------------------------------------------------
 
+![](img/solidago_unique_funders.png){width="300"}
 
 ```{r}
 #| echo: true
 #| eval: false
 my_plot <- solidago_docket_grants |> 
-  mutate(major_unique_funders = as.numeric(major_unique_funders)) |> 
-  ggplot(aes(x = major_unique_funders)) + 
+  mutate(major_unique_funders = as.numeric(major_unique_funders)) |> ggplot(aes(x = major_unique_funders)) + 
   geom_histogram(binwidth = 2, fill = "#4f6b4b") + theme_classic() + 
   labs(title = "Solidago Grants", x = "Number of Major Unique Funders", y = "Number of Grants")
-
 my_plot
-
 ```
 
-![](img/solidago_unique_funders.png)
-------------------------------------------------------------------------
+## 
 
 # Activity
 
-1. Navigate to our GitHub repo's pull requests
-2. Open the Code Review Practice Pull Request, and click on the Files Changed tab
-3. Scroll to the code chunk assigned to your group
-4. Leave an in-line review to improve this plot
+1.  Navigate to our GitHub repo's pull requests
+2.  Open the Code Review Practice Pull Request, and click on the Files Changed tab
+3.  Scroll to the code chunk assigned to your group
+4.  Leave an in-line review to improve this plot
 
 ------------------------------------------------------------------------
 
-## Code Review Workshop 
+## Code Review Workshop
 
-- Each team of 2-3 should review at least two visualizations. Select 2 from the print-outs on your table.
-  1. Complete the code review checklist for each visualization and discuss its relevance and effectiveness
-  2. Leave in-line comments on the visualization at GitHub (you have already been assigned as a reviewer on the appropriate pull request)
-  3. Click the "Review Changes" button, leave a collegial comment, and then "Finish Review"
-  
+-   Each team of 2-3 should review at least two visualizations. Select 2 from the print-outs on your table.
+    1.  Complete the code review checklist for each visualization and discuss its relevance and effectiveness
+    2.  Leave in-line comments on the visualization at GitHub (you have already been assigned as a reviewer on the appropriate pull request)
+    3.  Click the "Review Changes" button, leave a collegial comment, and then "Finish Review"
+
 ------------------------------------------------------------------------
 
 ## Reflection
 
-1. What was it like to "read" another person's code?
-2. What considerations should we make to ensure that our feedback on code is constructive and collegial?
+1.  What was it like to "read" another person's code?
+2.  What considerations should we make to ensure that our feedback on code is constructive and collegial?
