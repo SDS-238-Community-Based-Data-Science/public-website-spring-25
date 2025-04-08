@@ -120,9 +120,10 @@ my_plot
 ## Code Review Workshop
 
 -   Each team of 2-3 should review at least two visualizations. Select 2 from the print-outs on your table.
-    1.  Complete the code review checklist for each visualization and discuss its relevance and effectiveness
-    2.  Leave in-line comments on the visualization at GitHub (you have already been assigned as a reviewer on the appropriate pull request)
-    3.  Click the "Review Changes" button, leave a collegial comment, and then "Finish Review"
+    1.  Navigate to the pull request associated with the group you've been assigned, and open "Files Changed." Find the code for the plots you selected.
+    2.  Complete the code review checklist for each visualization and discuss its relevance and effectiveness
+    3.  Leave in-line comments on the visualization at GitHub
+    4.  Click the "Review Changes" button, leave a collegial comment, and then "Finish Review"
 
 ------------------------------------------------------------------------
 

@@ -1005,7 +1005,7 @@
     "href": "slides/Day22-CodeReview.html#code-review-workshop",
     "title": "Day X: Code Review",
     "section": "Code Review Workshop",
-    "text": "Code Review Workshop\n\nEach team of 2-3 should review at least two visualizations. Select 2 from the print-outs on your table.\n\nComplete the code review checklist for each visualization and discuss its relevance and effectiveness\nLeave in-line comments on the visualization at GitHub (you have already been assigned as a reviewer on the appropriate pull request)\nClick the “Review Changes” button, leave a collegial comment, and then “Finish Review”"
+    "text": "Code Review Workshop\n\nEach team of 2-3 should review at least two visualizations. Select 2 from the print-outs on your table.\n\nNavigate to the pull request associated with the group you’ve been assigned, and open “Files Changed.” Find the code for the plots you selected.\nComplete the code review checklist for each visualization and discuss its relevance and effectiveness\nLeave in-line comments on the visualization at GitHub\nClick the “Review Changes” button, leave a collegial comment, and then “Finish Review”"
   },
   {
     "objectID": "slides/Day22-CodeReview.html#reflection",
