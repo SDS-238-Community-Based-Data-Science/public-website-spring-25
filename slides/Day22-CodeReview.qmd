@@ -18,7 +18,7 @@ execute:
   warnings: false
 ---
 
-## Think about a time that you received feedback on an assignment or project. What were some qualitities of that feedback that made it helpful for improving your project?
+## Think about a time that you received feedback on an assignment or project. What were some qualities of that feedback that made it helpful for improving your project?
 
 ------------------------------------------------------------------------
 
