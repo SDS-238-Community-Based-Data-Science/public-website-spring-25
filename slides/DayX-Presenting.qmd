@@ -1,0 +1,73 @@
+---
+title: "Day X: Presentations"
+subtitle: "SDS 238: Community-Based Data Science"
+author: Lindsay Poirier
+format: 
+  revealjs:
+    scrollable: true
+    df-print: paged
+    theme: [default]
+    incremental: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: source
+execute:
+  echo: true
+  messages: false
+  warnings: false
+---
+
+## Find an image online that captures how you feel in finals week. Copy and paste it on [your slide](https://docs.google.com/presentation/d/1-WbSENtFdWAIOkPPpVGLddd-KCXgdiOPNuCrST-lbvM/edit?usp=sharing). 
+
+------------------------------------------------------------------------
+
+## Agenda
+
+1.  Presentation Style
+2.  Presenting Plots
+3.  Choreographing Wednesday's Presentation
+
+------------------------------------------------------------------------
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9XKBgdOrHU?si=mo3vAHpML9n-msRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> [Today's Worksheet](https://docs.google.com/document/d/1ovhgJw0AmnEHIl0VDda2zGoXfO0cpy8pV5cGXzkn3DM/copy)
+
+------------------------------------------------------------------------
+
+## Activity 1
+
+- In groups, identify five best practices engaged by the speaker. 
+- Each group member will have one minute to present the slide they created at the start of class attempting to embody these practices in their speech. 
+- Following each presentation, groups will have one minute to provide feedback to their team mates. 
+
+------------------------------------------------------------------------
+
+## Presenting Plots
+
+1. Indicate what data we are looking at. 
+2. Describe what the plot is representing.
+3. Identify factual information we can derive from the plot.
+4. Interpret the significance of that information. 
+5. Note/explain any missing data. 
+
+------------------------------------------------------------------------
+
+![](img/solidago_unique_funders.png){width="300"}
+
+
+---
+
+## Activity 2
+
+1. Select one of the plots your team will present on Wednesday. 
+2. Each team member will have one minute to present that plot. 
+3. Using the worksheet, take notes on how your team member presents the plot.
+4. Following each presentation, groups will have one minute to provide feedback to their team mates. 
+
+---
+
+# Choreographing Wednesday's Presentation
+
+
